@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "blank"
+    },
+    {
+      "name": "r_foot"
+    },
+    {
+      "name": "l_foot"
+    },
+    {
+      "name": "r_leg"
+    },
+    {
+      "name": "l_leg"
+    },
+    {
+      "name": "groin"
+    },
+    {
+      "name": "torso"
+    },
+    {
+      "name": "r_arm"
+    },
+    {
+      "name": "l_arm"
+    },
+    {
+      "name": "r_hand"
+    },
+    {
+      "name": "l_hand"
+    },
+    {
+      "name": "head"
+    },
+    {
+      "name": "mouth"
+    }
+  ]
+}

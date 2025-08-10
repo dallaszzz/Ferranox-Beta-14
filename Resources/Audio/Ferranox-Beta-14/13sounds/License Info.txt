@@ -1,0 +1,6 @@
+Known Licensing:
+
+Any license that Is not explicitly written is following the following details:
+
+License:CC-BY-SA-3.0
+Copyright:Taken from https://github.com/WoodenTucker/40K-Eipharius

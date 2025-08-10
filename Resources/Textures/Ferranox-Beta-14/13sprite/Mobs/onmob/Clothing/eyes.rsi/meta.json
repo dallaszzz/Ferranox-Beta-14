@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "glasses_thin",
+      "directions": 4
+    },
+    {
+      "name": "sun_thin",
+      "directions": 4
+    },
+    {
+      "name": "meson",
+      "directions": 4
+    },
+    {
+      "name": "thermal",
+      "directions": 4
+    },
+    {
+      "name": "material",
+      "directions": 4
+    },
+    {
+      "name": "blindfold",
+      "directions": 4
+    },
+    {
+      "name": "monocle_old",
+      "directions": 4
+    },
+    {
+      "name": "eyepatch",
+      "directions": 4
+    },
+    {
+      "name": "eyepatch_r",
+      "directions": 4
+    },
+    {
+      "name": "thermoncle",
+      "directions": 4
+    },
+    {
+      "name": "laforge",
+      "directions": 4
+    },
+    {
+      "name": "gglasses_thin",
+      "directions": 4
+    },
+    {
+      "name": "night",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "denight",
+      "directions": 4
+    },
+    {
+      "name": "glasses",
+      "directions": 4
+    },
+    {
+      "name": "sun",
+      "directions": 4
+    },
+    {
+      "name": "sun",
+      "directions": 4
+    },
+    {
+      "name": "gglasses",
+      "directions": 4
+    },
+    {
+      "name": "healthhud",
+      "directions": 4
+    },
+    {
+      "name": "healthhudpresc",
+      "directions": 4
+    },
+    {
+      "name": "securityhud",
+      "directions": 4
+    },
+    {
+      "name": "sechudpresc",
+      "directions": 4
+    },
+    {
+      "name": "monocle",
+      "directions": 4
+    },
+    {
+      "name": "sunhud",
+      "directions": 4
+    },
+    {
+      "name": "purple",
+      "directions": 4
+    },
+    {
+      "name": "thermalimplants",
+      "directions": 4
+    },
+    {
+      "name": "hipster_glasses",
+      "directions": 4
+    },
+    {
+      "name": "jensenshades",
+      "directions": 4
+    },
+    {
+      "name": "bigsunglasses",
+      "directions": 4
+    },
+    {
+      "name": "welding-g",
+      "directions": 4
+    },
+    {
+      "name": "welding-gup",
+      "directions": 4
+    },
+    {
+      "name": "uzenwa_sissra_1",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "rwelding-g",
+      "directions": 4
+    },
+    {
+      "name": "rwelding-gup",
+      "directions": 4
+    },
+    {
+      "name": "arjun_chopra",
+      "directions": 4
+    },
+    {
+      "name": "book_berner_1",
+      "directions": 4
+    },
+    {
+      "name": "swatgoggles",
+      "directions": 4
+    },
+    {
+      "name": "3d",
+      "directions": 4
+    },
+    {
+      "name": "degoggles",
+      "directions": 4
+    },
+    {
+      "name": "tape_cross",
+      "directions": 4
+    },
+    {
+      "name": "goggles",
+      "directions": 4
+    },
+    {
+      "name": "sec_hud",
+      "directions": 4
+    },
+    {
+      "name": "sec_flash",
+      "directions": 4
+    },
+    {
+      "name": "tajblind",
+      "directions": 4
+    },
+    {
+      "name": "tajblind_sec",
+      "directions": 4
+    },
+    {
+      "name": "tajblind_med",
+      "directions": 4
+    },
+    {
+      "name": "tajblind_meson",
+      "directions": 4
+    },
+    {
+      "name": "hudpatch",
+      "directions": 4
+    },
+    {
+      "name": "hudpatch_eye",
+      "directions": 4
+    },
+    {
+      "name": "hudpatch_r",
+      "directions": 4
+    },
+    {
+      "name": "hudpatch_r_eye",
+      "directions": 4
+    },
+    {
+      "name": "medhud_visor",
+      "directions": 4
+    },
+    {
+      "name": "iggoggles",
+      "directions": 4
+    },
+    {
+      "name": "blacksun",
+      "directions": 4
+    }
+  ]
+}

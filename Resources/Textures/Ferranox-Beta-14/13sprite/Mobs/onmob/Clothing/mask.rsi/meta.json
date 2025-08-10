@@ -1,0 +1,815 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "muzzle",
+      "directions": 4
+    },
+    {
+      "name": "gas_mask",
+      "directions": 4
+    },
+    {
+      "name": "medical",
+      "directions": 4
+    },
+    {
+      "name": "sterile",
+      "directions": 4
+    },
+    {
+      "name": "swat",
+      "directions": 4,
+      "delays": [
+        [
+          0.3,
+          0.3,
+          0.3
+        ],
+        [
+          0.3,
+          0.3,
+          0.3
+        ],
+        [
+          0.3,
+          0.3,
+          0.3
+        ],
+        [
+          0.3,
+          0.3,
+          0.3
+        ]
+      ]
+    },
+    {
+      "name": "gas_alt",
+      "directions": 4
+    },
+    {
+      "name": "owl",
+      "directions": 4
+    },
+    {
+      "name": "clown",
+      "directions": 4
+    },
+    {
+      "name": "death",
+      "directions": 4
+    },
+    {
+      "name": "breath",
+      "directions": 4
+    },
+    {
+      "name": "cigember",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "cigoff",
+      "directions": 4
+    },
+    {
+      "name": "cigaron",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "cigaroff",
+      "directions": 4
+    },
+    {
+      "name": "cigar2off",
+      "directions": 4
+    },
+    {
+      "name": "facehugger",
+      "directions": 4
+    },
+    {
+      "name": "facehugger_inactive",
+      "directions": 4
+    },
+    {
+      "name": "facehugger_dead",
+      "directions": 4
+    },
+    {
+      "name": "facehugger_corgi",
+      "directions": 4
+    },
+    {
+      "name": "facehugger_corgipuppy",
+      "directions": 4
+    },
+    {
+      "name": "plaguedoctor",
+      "directions": 4
+    },
+    {
+      "name": "mime",
+      "directions": 4
+    },
+    {
+      "name": "s-ninja",
+      "directions": 4
+    },
+    {
+      "name": "horsehead",
+      "directions": 4
+    },
+    {
+      "name": "fake-moustache",
+      "directions": 4
+    },
+    {
+      "name": "sexyclown",
+      "directions": 4
+    },
+    {
+      "name": "monkeymask",
+      "directions": 4
+    },
+    {
+      "name": "sexymime",
+      "directions": 4
+    },
+    {
+      "name": "cobpipeon",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "cobpipeoff",
+      "directions": 4
+    },
+    {
+      "name": "luchador",
+      "directions": 4
+    },
+    {
+      "name": "luchag",
+      "directions": 4
+    },
+    {
+      "name": "luchar",
+      "directions": 4
+    },
+    {
+      "name": "pig",
+      "directions": 4
+    },
+    {
+      "name": "breathdown",
+      "directions": 4
+    },
+    {
+      "name": "ty_necklace",
+      "directions": 4
+    },
+    {
+      "name": "tooth-necklace",
+      "directions": 4
+    },
+    {
+      "name": "pipeon",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "pipeoff",
+      "directions": 4
+    },
+    {
+      "name": "holobadge-cord",
+      "directions": 4
+    },
+    {
+      "name": "konaahirano",
+      "directions": 4
+    },
+    {
+      "name": "snorkel",
+      "directions": 4
+    },
+    {
+      "name": "michael_guess_1",
+      "directions": 4
+    },
+    {
+      "name": "cigar2on",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "tape_cross",
+      "directions": 4
+    },
+    {
+      "name": "balaclava",
+      "directions": 4
+    },
+    {
+      "name": "balaclava_r",
+      "directions": 4
+    },
+    {
+      "name": "swatclava",
+      "directions": 4
+    },
+    {
+      "name": "swatclava_r",
+      "directions": 4
+    },
+    {
+      "name": "halfgas",
+      "directions": 4
+    },
+    {
+      "name": "halfgasdown",
+      "directions": 4
+    },
+    {
+      "name": "sgmask",
+      "directions": 4
+    },
+    {
+      "name": "fullgas",
+      "directions": 4
+    },
+    {
+      "name": "necklace",
+      "directions": 4
+    },
+    {
+      "name": "tags",
+      "directions": 4
+    },
+    {
+      "name": "steriledown",
+      "directions": 4
+    },
+    {
+      "name": "ecigon",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ecigoff1",
+      "directions": 4
+    },
+    {
+      "name": "ecigoff2",
+      "directions": 4
+    },
+    {
+      "name": "ccigoff",
+      "directions": 4
+    },
+    {
+      "name": "pcigon",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ccigon",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "pcigoff1",
+      "directions": 4
+    },
+    {
+      "name": "pcigoff2",
+      "directions": 4
+    },
+    {
+      "name": "catmet",
+      "directions": 4
+    },
+    {
+      "name": "lizmet",
+      "directions": 4
+    },
+    {
+      "name": "skrellmet",
+      "directions": 4
+    },
+    {
+      "name": "manmet",
+      "directions": 4
+    },
+    {
+      "name": "barros",
+      "directions": 4
+    },
+    {
+      "name": "trasen",
+      "directions": 4
+    },
+    {
+      "name": "admiral",
+      "directions": 4
+    },
+    {
+      "name": "turner",
+      "directions": 4
+    },
+    {
+      "name": "spirit_mask",
+      "directions": 4
+    },
+    {
+      "name": "bandgold",
+      "directions": 4
+    },
+    {
+      "name": "bandblack",
+      "directions": 4
+    },
+    {
+      "name": "bandskull",
+      "directions": 4
+    },
+    {
+      "name": "bandgreen",
+      "directions": 4
+    },
+    {
+      "name": "bandred",
+      "directions": 4
+    },
+    {
+      "name": "bandblue",
+      "directions": 4
+    },
+    {
+      "name": "bandbotany",
+      "directions": 4
+    },
+    {
+      "name": "bandorange",
+      "directions": 4
+    },
+    {
+      "name": "bandpurple",
+      "directions": 4
+    },
+    {
+      "name": "bandcamo",
+      "directions": 4
+    },
+    {
+      "name": "undertaker",
+      "directions": 4
+    },
+    {
+      "name": "ballgag",
+      "directions": 4
+    },
+    {
+      "name": "gas_mining",
+      "directions": 4
+    },
+    {
+      "name": "prac_mask",
+      "directions": 4
+    },
+    {
+      "name": "prac_mask",
+      "directions": 4
+    },
+    {
+      "name": "redmask",
+      "directions": 4
+    },
+    {
+      "name": "ig_halfgas",
+      "directions": 4
+    },
+    {
+      "name": "agent_mask",
+      "directions": 4
+    },
+    {
+      "name": "oldkriegmask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "kriegmask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "mkriegmask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "commask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "grenmask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "offmask_OLD",
+      "directions": 4
+    },
+    {
+      "name": "slaanesh",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "techpriest",
+      "directions": 4
+    },
+    {
+      "name": "magos",
+      "directions": 4
+    },
+    {
+      "name": "renegade_militia_maskOLD",
+      "directions": 4
+    },
+    {
+      "name": "M_Mask-Icon",
+      "directions": 4
+    },
+    {
+      "name": "M_SMask-Icon",
+      "directions": 4
+    },
+    {
+      "name": "kriegmask",
+      "directions": 4
+    },
+    {
+      "name": "grenmask",
+      "directions": 4
+    },
+    {
+      "name": "commask",
+      "directions": 4
+    },
+    {
+      "name": "rtm",
+      "directions": 4
+    }
+  ]
+}

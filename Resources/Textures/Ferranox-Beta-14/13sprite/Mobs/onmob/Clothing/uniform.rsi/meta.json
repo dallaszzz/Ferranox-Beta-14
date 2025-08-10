@@ -1,0 +1,1442 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "jumpsuit_s",
+      "directions": 4
+    },
+    {
+      "name": "jumpsuit_d_s",
+      "directions": 4
+    },
+    {
+      "name": "jumpsuit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "f_jumpsuit_s",
+      "directions": 4
+    },
+    {
+      "name": "medical_s",
+      "directions": 4
+    },
+    {
+      "name": "medical_d_s",
+      "directions": 4
+    },
+    {
+      "name": "medical_r_s",
+      "directions": 4
+    },
+    {
+      "name": "cmo_s",
+      "directions": 4
+    },
+    {
+      "name": "cmo_d_s",
+      "directions": 4
+    },
+    {
+      "name": "cmo_r_s",
+      "directions": 4
+    },
+    {
+      "name": "orange_s",
+      "directions": 4
+    },
+    {
+      "name": "orange_d_s",
+      "directions": 4
+    },
+    {
+      "name": "orange_r_s",
+      "directions": 4
+    },
+    {
+      "name": "captain_s",
+      "directions": 4
+    },
+    {
+      "name": "captain_d_s",
+      "directions": 4
+    },
+    {
+      "name": "captain_r_s",
+      "directions": 4
+    },
+    {
+      "name": "engine_s",
+      "directions": 4
+    },
+    {
+      "name": "engine_d_s",
+      "directions": 4
+    },
+    {
+      "name": "engine_r_s",
+      "directions": 4
+    },
+    {
+      "name": "atmos_s",
+      "directions": 4
+    },
+    {
+      "name": "atmos_d_s",
+      "directions": 4
+    },
+    {
+      "name": "atmos_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hop_s",
+      "directions": 4
+    },
+    {
+      "name": "hop_d_s",
+      "directions": 4
+    },
+    {
+      "name": "hop_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sciencewhite_s",
+      "directions": 4
+    },
+    {
+      "name": "science_d_s",
+      "directions": 4
+    },
+    {
+      "name": "sciencewhite_r_s",
+      "directions": 4
+    },
+    {
+      "name": "geneticswhite_s",
+      "directions": 4
+    },
+    {
+      "name": "geneticswhite_d_s",
+      "directions": 4
+    },
+    {
+      "name": "geneticswhite_r_s",
+      "directions": 4
+    },
+    {
+      "name": "chemistrywhite_s",
+      "directions": 4
+    },
+    {
+      "name": "chemistrywhite_d_s",
+      "directions": 4
+    },
+    {
+      "name": "chemistrywhite_r_s",
+      "directions": 4
+    },
+    {
+      "name": "virologywhite_s",
+      "directions": 4
+    },
+    {
+      "name": "virologywhite_d_s",
+      "directions": 4
+    },
+    {
+      "name": "virologywhite_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hosred_s",
+      "directions": 4
+    },
+    {
+      "name": "hosred_d_s",
+      "directions": 4
+    },
+    {
+      "name": "hosred_r_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_d_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_r_s",
+      "directions": 4
+    },
+    {
+      "name": "secred_s",
+      "directions": 4
+    },
+    {
+      "name": "secred_r_s",
+      "directions": 4
+    },
+    {
+      "name": "secred_d_s",
+      "directions": 4
+    },
+    {
+      "name": "janitor_s",
+      "directions": 4
+    },
+    {
+      "name": "janitor_d_s",
+      "directions": 4
+    },
+    {
+      "name": "janitor_r_s",
+      "directions": 4
+    },
+    {
+      "name": "chef_s",
+      "directions": 4
+    },
+    {
+      "name": "chef_d_s",
+      "directions": 4
+    },
+    {
+      "name": "chef_r_s",
+      "directions": 4
+    },
+    {
+      "name": "cargo_s",
+      "directions": 4
+    },
+    {
+      "name": "cargo_d_s",
+      "directions": 4
+    },
+    {
+      "name": "cargo_r_s",
+      "directions": 4
+    },
+    {
+      "name": "qm_s",
+      "directions": 4
+    },
+    {
+      "name": "qm_d_s",
+      "directions": 4
+    },
+    {
+      "name": "qm_s",
+      "directions": 4
+    },
+    {
+      "name": "chief_s",
+      "directions": 4
+    },
+    {
+      "name": "chief_d_s",
+      "directions": 4
+    },
+    {
+      "name": "chief_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hydroponics_s",
+      "directions": 4
+    },
+    {
+      "name": "hydroponics_d_s",
+      "directions": 4
+    },
+    {
+      "name": "hydroponics_r_s",
+      "directions": 4
+    },
+    {
+      "name": "miner_s",
+      "directions": 4
+    },
+    {
+      "name": "miner_d_s",
+      "directions": 4
+    },
+    {
+      "name": "miner_r_s",
+      "directions": 4
+    },
+    {
+      "name": "robotics_s",
+      "directions": 4
+    },
+    {
+      "name": "robotics_d_s",
+      "directions": 4
+    },
+    {
+      "name": "robotics_r_s",
+      "directions": 4
+    },
+    {
+      "name": "blackshortsf_s",
+      "directions": 4
+    },
+    {
+      "name": "medical_short_s",
+      "directions": 4
+    },
+    {
+      "name": "chapblack_s",
+      "directions": 4
+    },
+    {
+      "name": "chapblack_r_s",
+      "directions": 4
+    },
+    {
+      "name": "forensicsred_s",
+      "directions": 4
+    },
+    {
+      "name": "forensicsred_r_s",
+      "directions": 4
+    },
+    {
+      "name": "ba_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "ba_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sl_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "sl_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "owl_s",
+      "directions": 4
+    },
+    {
+      "name": "officer_s",
+      "directions": 4
+    },
+    {
+      "name": "centcom_s",
+      "directions": 4
+    },
+    {
+      "name": "hosred_old_s",
+      "directions": 4
+    },
+    {
+      "name": "clown_s",
+      "directions": 4
+    },
+    {
+      "name": "johnny_s",
+      "directions": 4
+    },
+    {
+      "name": "lawyer_black_s",
+      "directions": 4
+    },
+    {
+      "name": "lawyer_red_s",
+      "directions": 4
+    },
+    {
+      "name": "lawyer_blue_s",
+      "directions": 4
+    },
+    {
+      "name": "psyche_s",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "director_s",
+      "directions": 4
+    },
+    {
+      "name": "green_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "red_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "teal_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "black_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "overalls_s",
+      "directions": 4
+    },
+    {
+      "name": "overalls_r_s",
+      "directions": 4
+    },
+    {
+      "name": "tourist_s",
+      "directions": 4
+    },
+    {
+      "name": "schoolgirl_s",
+      "directions": 4
+    },
+    {
+      "name": "pirate_s",
+      "directions": 4
+    },
+    {
+      "name": "mime_s",
+      "directions": 4
+    },
+    {
+      "name": "soviet_s",
+      "directions": 4
+    },
+    {
+      "name": "blackskirt_s",
+      "directions": 4
+    },
+    {
+      "name": "robotics2_s",
+      "directions": 4
+    },
+    {
+      "name": "waiter_s",
+      "directions": 4
+    },
+    {
+      "name": "waiter_r_s",
+      "directions": 4
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "chemist_new_s",
+      "directions": 4
+    },
+    {
+      "name": "chemist_new_r_s",
+      "directions": 4
+    },
+    {
+      "name": "geneticist_new_s",
+      "directions": 4
+    },
+    {
+      "name": "geneticist_new_r_s",
+      "directions": 4
+    },
+    {
+      "name": "scientist_new_s",
+      "directions": 4
+    },
+    {
+      "name": "scientist_new_r_s",
+      "directions": 4
+    },
+    {
+      "name": "virologist_new_s",
+      "directions": 4
+    },
+    {
+      "name": "virologist_new_r_s",
+      "directions": 4
+    },
+    {
+      "name": "kilt_s",
+      "directions": 4
+    },
+    {
+      "name": "kilt_d_s",
+      "directions": 4
+    },
+    {
+      "name": "nursesuit_s",
+      "directions": 4
+    },
+    {
+      "name": "sexyclown_s",
+      "directions": 4
+    },
+    {
+      "name": "mailman_s",
+      "directions": 4
+    },
+    {
+      "name": "mailman_r_s",
+      "directions": 4
+    },
+    {
+      "name": "vice_s",
+      "directions": 4
+    },
+    {
+      "name": "sexymime_s",
+      "directions": 4
+    },
+    {
+      "name": "scratch_s",
+      "directions": 4
+    },
+    {
+      "name": "redcoat_s",
+      "directions": 4
+    },
+    {
+      "name": "cargotech_s",
+      "directions": 4
+    },
+    {
+      "name": "cargotech_r_s",
+      "directions": 4
+    },
+    {
+      "name": "lawyer_purp_s",
+      "directions": 4
+    },
+    {
+      "name": "rainbow_s",
+      "directions": 4
+    },
+    {
+      "name": "really_black_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "gladiator_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubsblue_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubsgreen_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubspurple_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubsblack_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubsnavyblue_s",
+      "directions": 4
+    },
+    {
+      "name": "black_suit_fem_s",
+      "directions": 4
+    },
+    {
+      "name": "blue_pyjamas_s",
+      "directions": 4
+    },
+    {
+      "name": "red_pyjamas_s",
+      "directions": 4
+    },
+    {
+      "name": "hosblueclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "hosblueclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hosdnavyclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "hosdnavyclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hostanclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "hostanclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "officerblueclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "officerblueclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "officerdnavyclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "officerdnavyclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "officertanclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "officertanclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "wardenblueclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "wardenblueclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "wardendnavyclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "wardendnavyclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "wardentanclothes_s",
+      "directions": 4
+    },
+    {
+      "name": "wardentanclothes_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sundress_s",
+      "directions": 4
+    },
+    {
+      "name": "golem_s"
+    },
+    {
+      "name": "jumpsuitdown_s",
+      "directions": 4
+    },
+    {
+      "name": "purple_cheer_s",
+      "directions": 4
+    },
+    {
+      "name": "yellow_cheer_s",
+      "directions": 4
+    },
+    {
+      "name": "white_cheer_s",
+      "directions": 4
+    },
+    {
+      "name": "tian_dress_s",
+      "directions": 4
+    },
+    {
+      "name": "bridesmaid_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_fire_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_orange_s",
+      "directions": 4
+    },
+    {
+      "name": "bride_orange_s",
+      "directions": 4
+    },
+    {
+      "name": "stripper_g_s",
+      "directions": 4
+    },
+    {
+      "name": "stripper_p_s",
+      "directions": 4
+    },
+    {
+      "name": "redshirt2_s",
+      "directions": 4
+    },
+    {
+      "name": "redshirt2_r_s",
+      "directions": 4
+    },
+    {
+      "name": "internalaffairs_s",
+      "directions": 4
+    },
+    {
+      "name": "internalaffairs_r_s",
+      "directions": 4
+    },
+    {
+      "name": "swim_black_s",
+      "directions": 4
+    },
+    {
+      "name": "swim_blue_s",
+      "directions": 4
+    },
+    {
+      "name": "swim_green_s",
+      "directions": 4
+    },
+    {
+      "name": "swim_purp_s",
+      "directions": 4
+    },
+    {
+      "name": "swim_red_s",
+      "directions": 4
+    },
+    {
+      "name": "captain_fly_s",
+      "directions": 4
+    },
+    {
+      "name": "bride_blue_s",
+      "directions": 4
+    },
+    {
+      "name": "bride_purple_s",
+      "directions": 4
+    },
+    {
+      "name": "bride_red_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_cap_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_green_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_pink_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_hop_s",
+      "directions": 4
+    },
+    {
+      "name": "mankini_s",
+      "directions": 4
+    },
+    {
+      "name": "plaid_blue_s",
+      "directions": 4
+    },
+    {
+      "name": "plaid_purple_s",
+      "directions": 4
+    },
+    {
+      "name": "plaid_red_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_rd_s",
+      "directions": 4
+    },
+    {
+      "name": "dress_saloon_s",
+      "directions": 4
+    },
+    {
+      "name": "bride_white_s",
+      "directions": 4
+    },
+    {
+      "name": "dispatch_s",
+      "directions": 4
+    },
+    {
+      "name": "nurse_s",
+      "directions": 4
+    },
+    {
+      "name": "orderly_s",
+      "directions": 4
+    },
+    {
+      "name": "orderly_r_s",
+      "directions": 4
+    },
+    {
+      "name": "oldman_s",
+      "directions": 4
+    },
+    {
+      "name": "huresource_s",
+      "directions": 4
+    },
+    {
+      "name": "psysuit_s",
+      "directions": 4
+    },
+    {
+      "name": "hopwhimsy_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_corporate_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_corporate_d_s",
+      "directions": 4
+    },
+    {
+      "name": "warden_corporate_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sec_corporate_s",
+      "directions": 4
+    },
+    {
+      "name": "sec_corporate_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sec_corporate_d_s",
+      "directions": 4
+    },
+    {
+      "name": "hos_corporate_s",
+      "directions": 4
+    },
+    {
+      "name": "hos_corporate_d_s",
+      "directions": 4
+    },
+    {
+      "name": "hos_corporate_r_s",
+      "directions": 4
+    },
+    {
+      "name": "mai_yang_s",
+      "directions": 4
+    },
+    {
+      "name": "gentlesuit_s",
+      "directions": 4
+    },
+    {
+      "name": "gentlesuit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "rdalt_s",
+      "directions": 4
+    },
+    {
+      "name": "swatunder_s",
+      "directions": 4
+    },
+    {
+      "name": "psych_s",
+      "directions": 4
+    },
+    {
+      "name": "psychturtle_s",
+      "directions": 4
+    },
+    {
+      "name": "ert_uniform_s",
+      "directions": 4
+    },
+    {
+      "name": "ert_uniform_d_s",
+      "directions": 4
+    },
+    {
+      "name": "sundress_white_s",
+      "directions": 4
+    },
+    {
+      "name": "captain_formal_s",
+      "directions": 4
+    },
+    {
+      "name": "black_tango_s",
+      "directions": 4
+    },
+    {
+      "name": "assistant_formal_s",
+      "directions": 4
+    },
+    {
+      "name": "hos_formal_male_s",
+      "directions": 4
+    },
+    {
+      "name": "hos_formal_fem_s",
+      "directions": 4
+    },
+    {
+      "name": "charcoal_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "charcoal_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "navy_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "navy_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "burgundy_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "burgundy_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "checkered_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "checkered_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "hop_s",
+      "directions": 4
+    },
+    {
+      "name": "mechanic_s",
+      "directions": 4
+    },
+    {
+      "name": "mechanic_r_s",
+      "directions": 4
+    },
+    {
+      "name": "blackjumpskirt_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubsblack_s",
+      "directions": 4
+    },
+    {
+      "name": "blue_blazer_s",
+      "directions": 4
+    },
+    {
+      "name": "jensen_s",
+      "directions": 4
+    },
+    {
+      "name": "roboticsf_s",
+      "directions": 4
+    },
+    {
+      "name": "detective2_s",
+      "directions": 4
+    },
+    {
+      "name": "detective2_r_s",
+      "directions": 4
+    },
+    {
+      "name": "detective_s",
+      "directions": 4
+    },
+    {
+      "name": "detective_r_s",
+      "directions": 4
+    },
+    {
+      "name": "bluesuit_s",
+      "directions": 4
+    },
+    {
+      "name": "bluesuit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "blacksuit_s",
+      "directions": 4
+    },
+    {
+      "name": "blacksuit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "toxinswhite_d_s",
+      "directions": 4
+    },
+    {
+      "name": "tan_suit_s",
+      "directions": 4
+    },
+    {
+      "name": "tan_suit_r_s",
+      "directions": 4
+    },
+    {
+      "name": "detective3_s",
+      "directions": 4
+    },
+    {
+      "name": "detective3_r_s",
+      "directions": 4
+    },
+    {
+      "name": "skirt_short_s",
+      "directions": 4
+    },
+    {
+      "name": "skirt_swept_s",
+      "directions": 4
+    },
+    {
+      "name": "skirt_khaki_s",
+      "directions": 4
+    },
+    {
+      "name": "towel_s",
+      "directions": 4
+    },
+    {
+      "name": "hazard_s",
+      "directions": 4
+    },
+    {
+      "name": "hazard_r_s",
+      "directions": 4
+    },
+    {
+      "name": "hazard_d_s",
+      "directions": 4
+    },
+    {
+      "name": "sterile_s",
+      "directions": 4
+    },
+    {
+      "name": "sterile_r_s",
+      "directions": 4
+    },
+    {
+      "name": "sterile_d_s",
+      "directions": 4
+    },
+    {
+      "name": "pcrc_s",
+      "directions": 4
+    },
+    {
+      "name": "pcrc_r_s",
+      "directions": 4
+    },
+    {
+      "name": "pcrc_d_s",
+      "directions": 4
+    },
+    {
+      "name": "syndicate_s",
+      "directions": 4
+    },
+    {
+      "name": "syndicate_r_s",
+      "directions": 4
+    },
+    {
+      "name": "syndicate_d_s",
+      "directions": 4
+    },
+    {
+      "name": "tactifool_s",
+      "directions": 4
+    },
+    {
+      "name": "tactifool_r_s",
+      "directions": 4
+    },
+    {
+      "name": "tactifool_r_s",
+      "directions": 4
+    },
+    {
+      "name": "combat_s",
+      "directions": 4
+    },
+    {
+      "name": "combat_r_s",
+      "directions": 4
+    },
+    {
+      "name": "gear_harness_s",
+      "directions": 4
+    },
+    {
+      "name": "heph_s",
+      "directions": 4
+    },
+    {
+      "name": "saare_s",
+      "directions": 4
+    },
+    {
+      "name": "frontier_s",
+      "directions": 4
+    },
+    {
+      "name": "mbill_s",
+      "directions": 4
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "aether_s",
+      "directions": 4
+    },
+    {
+      "name": "aether_r_s",
+      "directions": 4
+    },
+    {
+      "name": "aether_d_s",
+      "directions": 4
+    },
+    {
+      "name": "wardt_s",
+      "directions": 4
+    },
+    {
+      "name": "grayson_s",
+      "directions": 4
+    },
+    {
+      "name": "focal_s",
+      "directions": 4
+    },
+    {
+      "name": "confed_s",
+      "directions": 4
+    },
+    {
+      "name": "turtleneck_s",
+      "directions": 4
+    },
+    {
+      "name": "shortjumpskirt_s",
+      "directions": 4
+    },
+    {
+      "name": "abaya_s",
+      "directions": 4
+    },
+    {
+      "name": "hunter_s",
+      "directions": 4
+    },
+    {
+      "name": "huntress_s",
+      "directions": 4
+    },
+    {
+      "name": "wetsuit_s",
+      "directions": 4
+    },
+    {
+      "name": "m_utility_s",
+      "directions": 4
+    },
+    {
+      "name": "m_service_s",
+      "directions": 4
+    },
+    {
+      "name": "m_dress_s",
+      "directions": 4
+    },
+    {
+      "name": "m_utility_i_s",
+      "directions": 4
+    },
+    {
+      "name": "m_service_i_s",
+      "directions": 4
+    },
+    {
+      "name": "m_dress_i_s",
+      "directions": 4
+    },
+    {
+      "name": "scrubs_s",
+      "directions": 4
+    },
+    {
+      "name": "longdress_s",
+      "directions": 4
+    },
+    {
+      "name": "shortdress_s",
+      "directions": 4
+    },
+    {
+      "name": "gowndress_s",
+      "directions": 4
+    },
+    {
+      "name": "magistrate_s",
+      "directions": 4
+    },
+    {
+      "name": "undertaker_s",
+      "directions": 4
+    },
+    {
+      "name": "arbiter_s",
+      "directions": 4
+    },
+    {
+      "name": "barny_s",
+      "directions": 4
+    },
+    {
+      "name": "child_grey_s",
+      "directions": 4
+    },
+    {
+      "name": "uni-church_s",
+      "directions": 4
+    },
+    {
+      "name": "ychef_s",
+      "directions": 4
+    },
+    {
+      "name": "heir_s",
+      "directions": 4
+    },
+    {
+      "name": "ycargo_s",
+      "directions": 4
+    },
+    {
+      "name": "cadet_s",
+      "directions": 4
+    },
+    {
+      "name": "urchin_s",
+      "directions": 4
+    },
+    {
+      "name": "consort_s",
+      "directions": 4
+    },
+    {
+      "name": "reduni_s",
+      "directions": 4
+    },
+    {
+      "name": "blueuni_s",
+      "directions": 4
+    },
+    {
+      "name": "explorer_s",
+      "directions": 4
+    },
+    {
+      "name": "blue_child_uniform_s",
+      "directions": 4
+    },
+    {
+      "name": "red_child_uniform_s",
+      "directions": 4
+    },
+    {
+      "name": "guard_s_old",
+      "directions": 4
+    },
+    {
+      "name": "lower1_s",
+      "directions": 4
+    },
+    {
+      "name": "scoutoutfit_s",
+      "directions": 4
+    },
+    {
+      "name": "krieg_s",
+      "directions": 4
+    },
+    {
+      "name": "skit_s",
+      "directions": 4
+    },
+    {
+      "name": "krieg_s_OLD",
+      "directions": 4
+    },
+    {
+      "name": "catacomm_s",
+      "directions": 4
+    },
+    {
+      "name": "kriegissar_s",
+      "directions": 4
+    },
+    {
+      "name": "guard_s",
+      "directions": 4
+    },
+    {
+      "name": "ork_clothes_s",
+      "directions": 4
+    },
+    {
+      "name": "orkpants_s",
+      "directions": 4
+    },
+    {
+      "name": "squighide_s",
+      "directions": 4
+    },
+    {
+      "name": "vest_s",
+      "directions": 4
+    },
+    {
+      "name": "vestg_s",
+      "directions": 4
+    },
+    {
+      "name": "vestb_s",
+      "directions": 4
+    },
+    {
+      "name": "vestblred_s",
+      "directions": 4
+    },
+    {
+      "name": "vestredbl_s",
+      "directions": 4
+    },
+    {
+      "name": "blackdress_s",
+      "directions": 4
+    },
+    {
+      "name": "reddress_s",
+      "directions": 4
+    },
+    {
+      "name": "repentia_nude",
+      "directions": 4
+    },
+    {
+      "name": "rm_uniform_s",
+      "directions": 4
+    },
+    {
+      "name": "maccabian",
+      "directions": 4
+    },
+    {
+      "name": "maccabians",
+      "directions": 4
+    },
+    {
+      "name": "maccabianm",
+      "directions": 4
+    },
+    {
+      "name": "rtc",
+      "directions": 4
+    },
+    {
+      "name": "scionundersuit",
+      "directions": 4
+    }
+  ]
+}

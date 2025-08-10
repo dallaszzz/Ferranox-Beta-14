@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 40
+  },
+  "states": [
+    {
+      "name": "ultrapack",
+      "directions": 4
+    },
+    {
+      "name": "ravpack",
+      "directions": 4
+    },
+    {
+      "name": "salpack",
+      "directions": 4
+    },
+    {
+      "name": "apothpack",
+      "directions": 4
+    },
+    {
+      "name": "techpack",
+      "directions": 4
+    },
+    {
+      "name": "bravpack",
+      "directions": 4
+    },
+    {
+      "name": "emperorscb",
+      "directions": 4
+    },
+    {
+      "name": "lamenterb",
+      "directions": 4
+    },
+    {
+      "name": "alphalegb",
+      "directions": 4
+    },
+    {
+      "name": "ultrab",
+      "directions": 4
+    }
+  ]
+}

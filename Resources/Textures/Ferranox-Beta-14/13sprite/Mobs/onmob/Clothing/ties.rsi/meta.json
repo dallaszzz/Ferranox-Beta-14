@@ -1,0 +1,524 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "bluecliptie",
+      "directions": 4
+    },
+    {
+      "name": "horribletie",
+      "directions": 4
+    },
+    {
+      "name": "tie",
+      "directions": 4
+    },
+    {
+      "name": "longtie",
+      "directions": 4
+    },
+    {
+      "name": "stethoscope",
+      "directions": 4
+    },
+    {
+      "name": "iron",
+      "directions": 4
+    },
+    {
+      "name": "bronze",
+      "directions": 4
+    },
+    {
+      "name": "silver",
+      "directions": 4
+    },
+    {
+      "name": "gold",
+      "directions": 4
+    },
+    {
+      "name": "cargo",
+      "directions": 4
+    },
+    {
+      "name": "cargo2"
+    },
+    {
+      "name": "engie",
+      "directions": 4
+    },
+    {
+      "name": "engie2"
+    },
+    {
+      "name": "med",
+      "directions": 4
+    },
+    {
+      "name": "medgreen",
+      "directions": 4
+    },
+    {
+      "name": "medblueband",
+      "directions": 4
+    },
+    {
+      "name": "red",
+      "directions": 4
+    },
+    {
+      "name": "hydro",
+      "directions": 4
+    },
+    {
+      "name": "solblue",
+      "directions": 4
+    },
+    {
+      "name": "whitered",
+      "directions": 4
+    },
+    {
+      "name": "holster_low",
+      "directions": 4
+    },
+    {
+      "name": "holster",
+      "directions": 4
+    },
+    {
+      "name": "holster_hip",
+      "directions": 4
+    },
+    {
+      "name": "holster_thigh",
+      "directions": 4
+    },
+    {
+      "name": "holster_machete",
+      "directions": 4
+    },
+    {
+      "name": "altair_locket",
+      "directions": 4
+    },
+    {
+      "name": "webbing",
+      "directions": 4
+    },
+    {
+      "name": "webbing_large",
+      "directions": 4
+    },
+    {
+      "name": "vest_brown",
+      "directions": 4
+    },
+    {
+      "name": "vest_black",
+      "directions": 4
+    },
+    {
+      "name": "vest_white",
+      "directions": 4
+    },
+    {
+      "name": "bandolier",
+      "directions": 4
+    },
+    {
+      "name": "konaahirano",
+      "directions": 4
+    },
+    {
+      "name": "unathiharness0",
+      "directions": 4
+    },
+    {
+      "name": "unathiharness1",
+      "directions": 4
+    },
+    {
+      "name": "unathiharness2",
+      "directions": 4
+    },
+    {
+      "name": "lucystethos",
+      "directions": 4
+    },
+    {
+      "name": "radi_pendant",
+      "directions": 4
+    },
+    {
+      "name": "necklace",
+      "directions": 4
+    },
+    {
+      "name": "holobadge",
+      "directions": 4
+    },
+    {
+      "name": "holobadge-cord",
+      "directions": 4
+    },
+    {
+      "name": "goldbadge",
+      "directions": 4
+    },
+    {
+      "name": "marshalbadge",
+      "directions": 4
+    },
+    {
+      "name": "diabadge",
+      "directions": 4
+    },
+    {
+      "name": "ntbadge",
+      "directions": 4
+    },
+    {
+      "name": "intelbadge",
+      "directions": 4
+    },
+    {
+      "name": "pressbadge",
+      "directions": 4
+    },
+    {
+      "name": "detectivebadge",
+      "directions": 4
+    },
+    {
+      "name": "det_vest",
+      "directions": 4
+    },
+    {
+      "name": "det_vest_open",
+      "directions": 4
+    },
+    {
+      "name": "tan_jacket",
+      "directions": 4
+    },
+    {
+      "name": "tan_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "charcoal_jacket",
+      "directions": 4
+    },
+    {
+      "name": "charcoal_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "navy_jacket",
+      "directions": 4
+    },
+    {
+      "name": "navy_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "burgundy_jacket",
+      "directions": 4
+    },
+    {
+      "name": "burgundy_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "checkered_jacket",
+      "directions": 4
+    },
+    {
+      "name": "checkered_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "kneepads",
+      "directions": 4
+    },
+    {
+      "name": "hawaii",
+      "directions": 4
+    },
+    {
+      "name": "hawaii2",
+      "directions": 4
+    },
+    {
+      "name": "hawaii_open",
+      "directions": 4
+    },
+    {
+      "name": "hawaii2_open",
+      "directions": 4
+    },
+    {
+      "name": "whitescarf",
+      "directions": 4
+    },
+    {
+      "name": "suspenders",
+      "directions": 4
+    },
+    {
+      "name": "vest",
+      "directions": 4
+    },
+    {
+      "name": "flannelrb",
+      "directions": 4
+    },
+    {
+      "name": "flannelb",
+      "directions": 4
+    },
+    {
+      "name": "flannelr",
+      "directions": 4
+    },
+    {
+      "name": "flanneltb",
+      "directions": 4
+    },
+    {
+      "name": "flannelt",
+      "directions": 4
+    },
+    {
+      "name": "flannel",
+      "directions": 4
+    },
+    {
+      "name": "flannelrtb",
+      "directions": 4
+    },
+    {
+      "name": "flannelrt",
+      "directions": 4
+    },
+    {
+      "name": "thigh_white",
+      "directions": 4
+    },
+    {
+      "name": "thigh_black",
+      "directions": 4
+    },
+    {
+      "name": "thigh_brown",
+      "directions": 4
+    },
+    {
+      "name": "none"
+    },
+    {
+      "name": "bowtie",
+      "directions": 4
+    },
+    {
+      "name": "bowtie_untied",
+      "directions": 4
+    },
+    {
+      "name": "bowtie_ugly",
+      "directions": 4
+    },
+    {
+      "name": "bowtie_ugly_untied",
+      "directions": 4
+    },
+    {
+      "name": "nttunic",
+      "directions": 4
+    },
+    {
+      "name": "nttunicblack",
+      "directions": 4
+    },
+    {
+      "name": "nt_jacket",
+      "directions": 4
+    },
+    {
+      "name": "nt_jacket_open",
+      "directions": 4
+    },
+    {
+      "name": "ntcliptie",
+      "directions": 4
+    },
+    {
+      "name": "zhongshan",
+      "directions": 4
+    },
+    {
+      "name": "zhongshan_open",
+      "directions": 4
+    },
+    {
+      "name": "tangzhuang",
+      "directions": 4
+    },
+    {
+      "name": "tangzhuang_r",
+      "directions": 4
+    },
+    {
+      "name": "dashiki",
+      "directions": 4
+    },
+    {
+      "name": "dashikired",
+      "directions": 4
+    },
+    {
+      "name": "dashikiblue",
+      "directions": 4
+    },
+    {
+      "name": "thawb",
+      "directions": 4
+    },
+    {
+      "name": "sherwani",
+      "directions": 4
+    },
+    {
+      "name": "qipao",
+      "directions": 4
+    },
+    {
+      "name": "ubacblack",
+      "directions": 4
+    },
+    {
+      "name": "ubacblue",
+      "directions": 4
+    },
+    {
+      "name": "ubactan",
+      "directions": 4
+    },
+    {
+      "name": "ubacgreen",
+      "directions": 4
+    },
+    {
+      "name": "sweater",
+      "directions": 4
+    },
+    {
+      "name": "commandcape",
+      "directions": 4
+    },
+    {
+      "name": "leadercape",
+      "directions": 4
+    },
+    {
+      "name": "officercape",
+      "directions": 4
+    },
+    {
+      "name": "gruntcape",
+      "directions": 4
+    },
+    {
+      "name": "leader_patch_helm",
+      "directions": 4
+    },
+    {
+      "name": "medical_helmet_patch",
+      "directions": 4
+    },
+    {
+      "name": "medic_patch",
+      "directions": 4
+    },
+    {
+      "name": "alpha_patch",
+      "directions": 4
+    },
+    {
+      "name": "charlie_patch",
+      "directions": 4
+    },
+    {
+      "name": "bravo_patch",
+      "directions": 4
+    },
+    {
+      "name": "blue_outline",
+      "directions": 4
+    },
+    {
+      "name": "red_outline",
+      "directions": 4
+    },
+    {
+      "name": "trenchcloak",
+      "directions": 4
+    },
+    {
+      "name": "brown",
+      "directions": 4
+    },
+    {
+      "name": "gray",
+      "directions": 4
+    },
+    {
+      "name": "hos",
+      "directions": 4
+    },
+    {
+      "name": "bishop",
+      "directions": 4
+    },
+    {
+      "name": "paladin",
+      "directions": 4
+    },
+    {
+      "name": "commander",
+      "directions": 4
+    },
+    {
+      "name": "treasurer",
+      "directions": 4
+    },
+    {
+      "name": "peltfur",
+      "directions": 4
+    },
+    {
+      "name": "peltmountain",
+      "directions": 4
+    },
+    {
+      "name": "ragged",
+      "directions": 4
+    },
+    {
+      "name": "goliath",
+      "directions": 4
+    },
+    {
+      "name": "prince",
+      "directions": 4
+    }
+  ]
+}

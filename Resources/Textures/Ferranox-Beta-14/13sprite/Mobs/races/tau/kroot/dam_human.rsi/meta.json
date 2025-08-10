@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "00"
+    },
+    {
+      "name": "00-2"
+    },
+    {
+      "name": "chest_01",
+      "directions": 4
+    },
+    {
+      "name": "head_01",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_01",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_01",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_01",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_01",
+      "directions": 4
+    },
+    {
+      "name": "chest_02",
+      "directions": 4
+    },
+    {
+      "name": "head_02",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_02",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_02",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_02",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_02",
+      "directions": 4
+    },
+    {
+      "name": "chest_03",
+      "directions": 4
+    },
+    {
+      "name": "head_03",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_03",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_03",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_03",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_03",
+      "directions": 4
+    },
+    {
+      "name": "chest_10",
+      "directions": 4
+    },
+    {
+      "name": "head_10",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_10",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_10",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_10",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_10",
+      "directions": 4
+    },
+    {
+      "name": "chest_20",
+      "directions": 4
+    },
+    {
+      "name": "head_20",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_20",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_20",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_20",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_20",
+      "directions": 4
+    },
+    {
+      "name": "chest_30",
+      "directions": 4
+    },
+    {
+      "name": "head_30",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_30",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_30",
+      "directions": 4
+    },
+    {
+      "name": "r_leg_30",
+      "directions": 4
+    },
+    {
+      "name": "l_leg_30",
+      "directions": 4
+    }
+  ]
+}

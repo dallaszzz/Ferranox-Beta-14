@@ -1,0 +1,601 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "headset",
+      "directions": 4
+    },
+    {
+      "name": "earmuffs",
+      "directions": 4
+    },
+    {
+      "name": "earset",
+      "directions": 4
+    },
+    {
+      "name": "eng_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "sec_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "med_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "cargo_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "com_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "syndie_headset",
+      "directions": 4
+    },
+    {
+      "name": "hairflower",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_blue",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_yellow",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_pink",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_ebony",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_purple_male",
+      "directions": 4
+    },
+    {
+      "name": "band_r",
+      "directions": 4
+    },
+    {
+      "name": "band_bl",
+      "directions": 4
+    },
+    {
+      "name": "band_bk",
+      "directions": 4
+    },
+    {
+      "name": "headphones_on",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "headphones_off",
+      "directions": 4
+    },
+    {
+      "name": "cloverpin",
+      "directions": 4
+    },
+    {
+      "name": "whiteribbon",
+      "directions": 4
+    },
+    {
+      "name": "magnetpin",
+      "directions": 4
+    },
+    {
+      "name": "pinkpin",
+      "directions": 4
+    },
+    {
+      "name": "pin",
+      "directions": 4
+    },
+    {
+      "name": "pin_a",
+      "directions": 4
+    },
+    {
+      "name": "redribbon",
+      "directions": 4
+    },
+    {
+      "name": "butterflypin",
+      "directions": 4
+    },
+    {
+      "name": "bow",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_violet",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_orange",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_white",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_white_a",
+      "directions": 4
+    },
+    {
+      "name": "verylong_golddia",
+      "directions": 4
+    },
+    {
+      "name": "male_blackdia_s",
+      "directions": 4
+    },
+    {
+      "name": "veryshort_fest",
+      "directions": 4
+    },
+    {
+      "name": "male_fest",
+      "directions": 4
+    },
+    {
+      "name": "male_blackdia",
+      "directions": 4
+    },
+    {
+      "name": "male_golddia",
+      "directions": 4
+    },
+    {
+      "name": "female_blackdia",
+      "directions": 4
+    },
+    {
+      "name": "female_silvdia",
+      "directions": 4
+    },
+    {
+      "name": "female_fest",
+      "directions": 4
+    },
+    {
+      "name": "verylong_blackdia",
+      "directions": 4
+    },
+    {
+      "name": "male_silvdia",
+      "directions": 4
+    },
+    {
+      "name": "female_golddia",
+      "directions": 4
+    },
+    {
+      "name": "verylong_silvdia",
+      "directions": 4
+    },
+    {
+      "name": "female_cloth",
+      "directions": 4
+    },
+    {
+      "name": "male_cloth",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_blue_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_lblue_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_black_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_green_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_pink_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_black_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_black_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_blue_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_lblue_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_pink_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_green_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_rjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_rjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_bjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_bjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_ebony",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_ebony",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_sil",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_sil",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_male",
+      "directions": 4
+    },
+    {
+      "name": "veryshort_golddia",
+      "directions": 4
+    },
+    {
+      "name": "verylong_fest",
+      "directions": 4
+    },
+    {
+      "name": "curvedantennae",
+      "directions": 4
+    },
+    {
+      "name": "straightantennae",
+      "directions": 4
+    },
+    {
+      "name": "tusk",
+      "directions": 4
+    },
+    {
+      "name": "horncrown",
+      "directions": 4
+    },
+    {
+      "name": "dish",
+      "directions": 4
+    },
+    {
+      "name": "headlights",
+      "directions": 4
+    },
+    {
+      "name": "headlights-on",
+      "directions": 4
+    },
+    {
+      "name": "dual_robot_antennae",
+      "directions": 4
+    },
+    {
+      "name": "left_robot_antennae",
+      "directions": 4
+    },
+    {
+      "name": "right_robot_antennae",
+      "directions": 4
+    },
+    {
+      "name": "circuitry",
+      "directions": 4
+    },
+    {
+      "name": "skrell_dots",
+      "directions": 4
+    },
+    {
+      "name": "skrell_stripes",
+      "directions": 4
+    },
+    {
+      "name": "skrell_circles",
+      "directions": 4
+    },
+    {
+      "name": "headset",
+      "directions": 4
+    },
+    {
+      "name": "earmuffs",
+      "directions": 4
+    },
+    {
+      "name": "earset",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_female",
+      "directions": 4
+    },
+    {
+      "name": "skrell_cloth_male",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_bjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_bjewel",
+      "directions": 4
+    },
+    {
+      "name": "med_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "cargo_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_sil",
+      "directions": 4
+    },
+    {
+      "name": "headphones_off",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_ebony",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_sil",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_rjewel",
+      "directions": 4
+    },
+    {
+      "name": "skrell_band_ebony",
+      "directions": 4
+    },
+    {
+      "name": "syndie_headset",
+      "directions": 4
+    },
+    {
+      "name": "skrell_chain_rjewel",
+      "directions": 4
+    },
+    {
+      "name": "sec_headset_alt",
+      "directions": 4
+    },
+    {
+      "name": "headphones_on",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "hairflower",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_blue",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_pink",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_yellow",
+      "directions": 4
+    },
+    {
+      "name": "ear_stud",
+      "directions": 4
+    },
+    {
+      "name": "ear_dangle",
+      "directions": 4
+    },
+    {
+      "name": "guevesa_tactical_headset",
+      "directions": 4
+    },
+    {
+      "name": "fw_headset",
+      "directions": 4
+    },
+    {
+      "name": "tau_tactical_headset",
+      "directions": 4
+    },
+    {
+      "name": "tau_headset",
+      "directions": 4
+    },
+    {
+      "name": "voxcaster",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    }
+  ]
+}

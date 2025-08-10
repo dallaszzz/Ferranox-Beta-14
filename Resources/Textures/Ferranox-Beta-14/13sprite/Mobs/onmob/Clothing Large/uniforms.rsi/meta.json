@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 40
+  },
+  "states": [
+    {
+      "name": "ogryn_full_s",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_pants_s",
+      "directions": 4
+    }
+  ]
+}

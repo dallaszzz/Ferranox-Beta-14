@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 40
+  },
+  "states": [
+    {
+      "name": "ultrahelm",
+      "directions": 4
+    },
+    {
+      "name": "ravhelm",
+      "directions": 4
+    },
+    {
+      "name": "salhelm",
+      "directions": 4
+    },
+    {
+      "name": "ultracap",
+      "directions": 4
+    },
+    {
+      "name": "ravcap",
+      "directions": 4
+    },
+    {
+      "name": "salcap",
+      "directions": 4
+    },
+    {
+      "name": "apohelm",
+      "directions": 4
+    },
+    {
+      "name": "ravapo",
+      "directions": 4
+    },
+    {
+      "name": "techhelm",
+      "directions": 4
+    },
+    {
+      "name": "banghelm",
+      "directions": 4
+    },
+    {
+      "name": "1khelm",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_bonehead",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_hood",
+      "directions": 4
+    },
+    {
+      "name": "emperorsch",
+      "directions": 4
+    },
+    {
+      "name": "lamenterh",
+      "directions": 4
+    },
+    {
+      "name": "alphalegh",
+      "directions": 4
+    },
+    {
+      "name": "ultrah",
+      "directions": 4
+    }
+  ]
+}

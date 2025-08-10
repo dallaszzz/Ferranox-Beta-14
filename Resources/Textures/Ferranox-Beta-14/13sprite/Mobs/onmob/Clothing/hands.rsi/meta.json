@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "lgloves",
+      "directions": 4
+    },
+    {
+      "name": "ygloves",
+      "directions": 4
+    },
+    {
+      "name": "bgloves",
+      "directions": 4
+    },
+    {
+      "name": "r_hands",
+      "directions": 4
+    },
+    {
+      "name": "swat_gl",
+      "directions": 4
+    },
+    {
+      "name": "ggloves",
+      "directions": 4
+    },
+    {
+      "name": "s-ninja",
+      "directions": 4
+    },
+    {
+      "name": "s-ninjan",
+      "directions": 4
+    },
+    {
+      "name": "s-ninjak",
+      "directions": 4
+    },
+    {
+      "name": "bluegloves",
+      "directions": 4
+    },
+    {
+      "name": "orangegloves",
+      "directions": 4
+    },
+    {
+      "name": "redgloves",
+      "directions": 4
+    },
+    {
+      "name": "purplegloves",
+      "directions": 4
+    },
+    {
+      "name": "greengloves",
+      "directions": 4
+    },
+    {
+      "name": "graygloves",
+      "directions": 4
+    },
+    {
+      "name": "lightbrowngloves",
+      "directions": 4
+    },
+    {
+      "name": "browngloves",
+      "directions": 4
+    },
+    {
+      "name": "egloves",
+      "directions": 4
+    },
+    {
+      "name": "rainbowgloves",
+      "directions": 4
+    },
+    {
+      "name": "boxing",
+      "directions": 4
+    },
+    {
+      "name": "boxingblue",
+      "directions": 4
+    },
+    {
+      "name": "boxinggreen",
+      "directions": 4
+    },
+    {
+      "name": "boxingyellow",
+      "directions": 4
+    },
+    {
+      "name": "chal_appara_1",
+      "directions": 4
+    },
+    {
+      "name": "chal_appara_12"
+    },
+    {
+      "name": "ashley_rifler_1",
+      "directions": 4
+    },
+    {
+      "name": "ashley_rifler_12"
+    },
+    {
+      "name": "engineering_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "engineering_rig",
+      "directions": 4
+    },
+    {
+      "name": "security_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "security_rig",
+      "directions": 4
+    },
+    {
+      "name": "ninja_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ninja_rig",
+      "directions": 4
+    },
+    {
+      "name": "medical_rig",
+      "directions": 4
+    },
+    {
+      "name": "medical_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "hacker_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "hacker_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_security_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_commander_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_medical_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_engineer_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_security_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_commander_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_medical_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_engineer_rig",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_cheap",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_cheap_sealed",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "hazard_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "hazard_rig",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig",
+      "directions": 4
+    },
+    {
+      "name": "science_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "science_rig",
+      "directions": 4
+    },
+    {
+      "name": "asset_protection_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "asset_protection_rig",
+      "directions": 4
+    },
+    {
+      "name": "eva_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "eva_rig",
+      "directions": 4
+    },
+    {
+      "name": "stealth_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_janitor_rig",
+      "directions": 4
+    },
+    {
+      "name": "stealth_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_janitor_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "military_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "evening_gloves",
+      "directions": 4
+    },
+    {
+      "name": "military_rig",
+      "directions": 4
+    },
+    {
+      "name": "guards",
+      "directions": 4
+    },
+    {
+      "name": "wgloves",
+      "directions": 4
+    },
+    {
+      "name": "ce_rig",
+      "directions": 4
+    },
+    {
+      "name": "ce_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ngloves",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig_heavy_sealed",
+      "directions": 4
+    },
+    {
+      "name": "merc_heavy_rig",
+      "directions": 4
+    },
+    {
+      "name": "arbiter",
+      "directions": 4
+    },
+    {
+      "name": "undertaker",
+      "directions": 4
+    },
+    {
+      "name": "prac_gloves",
+      "directions": 4
+    },
+    {
+      "name": "prac_gloves",
+      "directions": 4
+    },
+    {
+      "name": "namgloves",
+      "directions": 4
+    },
+    {
+      "name": "warfare_gloves",
+      "directions": 4
+    },
+    {
+      "name": "vigilante_gloves",
+      "directions": 4
+    },
+    {
+      "name": "techpriest",
+      "directions": 4
+    },
+    {
+      "name": "krieggloves_OLD",
+      "directions": 4
+    },
+    {
+      "name": "grengloves_OLD",
+      "directions": 4
+    },
+    {
+      "name": "sister",
+      "directions": 4
+    },
+    {
+      "name": "mlsister",
+      "directions": 4
+    },
+    {
+      "name": "brsister",
+      "directions": 4
+    },
+    {
+      "name": "M_Gloves-Icon",
+      "directions": 4
+    },
+    {
+      "name": "M_SGauntlets-Icon",
+      "directions": 4
+    },
+    {
+      "name": "krieggloves",
+      "directions": 4
+    },
+    {
+      "name": "comgloves",
+      "directions": 4
+    },
+    {
+      "name": "ScionGloves",
+      "directions": 4
+    },
+    {
+      "name": "rtg",
+      "directions": 4
+    }
+  ]
+}
