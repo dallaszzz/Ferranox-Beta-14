@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "pcarrier",
+      "directions": 4
+    },
+    {
+      "name": "pcarrier_blue",
+      "directions": 4
+    },
+    {
+      "name": "pcarrier_navy",
+      "directions": 4
+    },
+    {
+      "name": "pcarrier_green",
+      "directions": 4
+    },
+    {
+      "name": "pcarrier_tan",
+      "directions": 4
+    },
+    {
+      "name": "pcarrier_press",
+      "directions": 4
+    },
+    {
+      "name": "riot",
+      "directions": 4
+    },
+    {
+      "name": "ablative",
+      "directions": 4
+    },
+    {
+      "name": "ballistic",
+      "directions": 4
+    },
+    {
+      "name": "pouches",
+      "directions": 4
+    },
+    {
+      "name": "pouches_blue",
+      "directions": 4
+    },
+    {
+      "name": "pouches_navy",
+      "directions": 4
+    },
+    {
+      "name": "pouches_green",
+      "directions": 4
+    },
+    {
+      "name": "pouches_tan",
+      "directions": 4
+    },
+    {
+      "name": "lpouches",
+      "directions": 4
+    },
+    {
+      "name": "lpouches_blue",
+      "directions": 4
+    },
+    {
+      "name": "lpouches_navy",
+      "directions": 4
+    },
+    {
+      "name": "lpouches_green",
+      "directions": 4
+    },
+    {
+      "name": "lpouches_tan",
+      "directions": 4
+    },
+    {
+      "name": "armguards",
+      "directions": 4
+    },
+    {
+      "name": "armguards_blue",
+      "directions": 4
+    },
+    {
+      "name": "armguards_navy",
+      "directions": 4
+    },
+    {
+      "name": "armguards_green",
+      "directions": 4
+    },
+    {
+      "name": "armguards_tan",
+      "directions": 4
+    },
+    {
+      "name": "armguards_merc",
+      "directions": 4
+    },
+    {
+      "name": "armguards_riot",
+      "directions": 4
+    },
+    {
+      "name": "armguards_ablative",
+      "directions": 4
+    },
+    {
+      "name": "armguards_ballistic",
+      "directions": 4
+    },
+    {
+      "name": "legguards",
+      "directions": 4
+    },
+    {
+      "name": "legguards_blue",
+      "directions": 4
+    },
+    {
+      "name": "legguards_navy",
+      "directions": 4
+    },
+    {
+      "name": "legguards_green",
+      "directions": 4
+    },
+    {
+      "name": "legguards_tan",
+      "directions": 4
+    },
+    {
+      "name": "legguards_merc",
+      "directions": 4
+    },
+    {
+      "name": "legguards_riot",
+      "directions": 4
+    },
+    {
+      "name": "legguards_ablative",
+      "directions": 4
+    },
+    {
+      "name": "legguards_ballistic",
+      "directions": 4
+    },
+    {
+      "name": "pouches_tie"
+    },
+    {
+      "name": "pouches_blue_tie"
+    },
+    {
+      "name": "pouches_navy_tie"
+    },
+    {
+      "name": "pouches_green_tie"
+    },
+    {
+      "name": "pouches_tan_tie"
+    },
+    {
+      "name": "lpouches_tie"
+    },
+    {
+      "name": "lpouches_blue_tie"
+    },
+    {
+      "name": "lpouches_navy_tie"
+    },
+    {
+      "name": "lpouches_green_tie"
+    },
+    {
+      "name": "lpouches_tan_tie"
+    },
+    {
+      "name": "armguards_tie"
+    },
+    {
+      "name": "armguards_blue_tie"
+    },
+    {
+      "name": "armguards_navy_tie"
+    },
+    {
+      "name": "armguards_green_tie"
+    },
+    {
+      "name": "armguards_tan_tie"
+    },
+    {
+      "name": "armguards_merc_tie"
+    },
+    {
+      "name": "armguards_riot_tie"
+    },
+    {
+      "name": "armguards_ablative_tie"
+    },
+    {
+      "name": "armguards_ballistic_tie"
+    },
+    {
+      "name": "legguards_tie"
+    },
+    {
+      "name": "legguards_blue_tie"
+    },
+    {
+      "name": "legguards_navy_tie"
+    },
+    {
+      "name": "legguards_green_tie"
+    },
+    {
+      "name": "legguards_tan_tie"
+    },
+    {
+      "name": "legguards_merc_tie"
+    },
+    {
+      "name": "legguards_riot_tie"
+    },
+    {
+      "name": "legguards_ablative_tie"
+    },
+    {
+      "name": "legguards_ballistic_tie"
+    },
+    {
+      "name": "nanotag",
+      "directions": 4
+    },
+    {
+      "name": "pcrctag",
+      "directions": 4
+    },
+    {
+      "name": "saaretag",
+      "directions": 4
+    },
+    {
+      "name": "presstag",
+      "directions": 4
+    },
+    {
+      "name": "nanotag_tie"
+    },
+    {
+      "name": "pcrctag_tie"
+    },
+    {
+      "name": "saaretag_tie"
+    },
+    {
+      "name": "presstag_tie"
+    },
+    {
+      "name": "helmcover_blue",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_navy",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_green",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_tan",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_nt",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_pcrc",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_saare",
+      "directions": 4
+    },
+    {
+      "name": "helmcover_blue_tie"
+    },
+    {
+      "name": "helmcover_navy_tie"
+    },
+    {
+      "name": "helmcover_green_tie"
+    },
+    {
+      "name": "helmcover_tan_tie"
+    },
+    {
+      "name": "helmcover_nt_tie"
+    },
+    {
+      "name": "helmcover_pcrc_tie"
+    },
+    {
+      "name": "helmcover_saare_tie"
+    },
+    {
+      "name": "cloak"
+    }
+  ]
+}

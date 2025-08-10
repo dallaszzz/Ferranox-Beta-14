@@ -1,0 +1,900 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "electropack0",
+      "directions": 4
+    },
+    {
+      "name": "backpack",
+      "directions": 4
+    },
+    {
+      "name": "oxygen",
+      "directions": 4
+    },
+    {
+      "name": "oxygen_f",
+      "directions": 4
+    },
+    {
+      "name": "oxygen_fr",
+      "directions": 4
+    },
+    {
+      "name": "jetpack",
+      "directions": 4
+    },
+    {
+      "name": "jetpack-on",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "anesthetic",
+      "directions": 4
+    },
+    {
+      "name": "witch"
+    },
+    {
+      "name": "cape",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "clownpack",
+      "directions": 4
+    },
+    {
+      "name": "medicalpack",
+      "directions": 4
+    },
+    {
+      "name": "securitypack",
+      "directions": 4
+    },
+    {
+      "name": "captainpack",
+      "directions": 4
+    },
+    {
+      "name": "holdingpack",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "brokenpack",
+      "directions": 4
+    },
+    {
+      "name": "jetpack-void",
+      "directions": 4
+    },
+    {
+      "name": "jetpack-void-on",
+      "directions": 4,
+      "delays": [
+        [
+          0.4,
+          0.4
+        ],
+        [
+          0.4,
+          0.4
+        ],
+        [
+          0.4,
+          0.4
+        ],
+        [
+          0.4,
+          0.4
+        ]
+      ]
+    },
+    {
+      "name": "jetpack-black",
+      "directions": 4
+    },
+    {
+      "name": "jetpack-black-on",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "engiepackOLD",
+      "directions": 4
+    },
+    {
+      "name": "engiepack",
+      "directions": 4
+    },
+    {
+      "name": "satchel",
+      "directions": 4
+    },
+    {
+      "name": "electropack1",
+      "directions": 4
+    },
+    {
+      "name": "riot",
+      "directions": 4
+    },
+    {
+      "name": "riot",
+      "directions": 4
+    },
+    {
+      "name": "fireaxe0",
+      "directions": 4
+    },
+    {
+      "name": "fireaxe0",
+      "directions": 4
+    },
+    {
+      "name": "bandolier",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle",
+      "directions": 4
+    },
+    {
+      "name": "cultpack",
+      "directions": 4
+    },
+    {
+      "name": "staffofchange",
+      "directions": 4
+    },
+    {
+      "name": "giftbag0",
+      "directions": 4
+    },
+    {
+      "name": "giftbag1",
+      "directions": 4
+    },
+    {
+      "name": "giftbag2",
+      "directions": 4
+    },
+    {
+      "name": "winchester",
+      "directions": 4
+    },
+    {
+      "name": "winchester",
+      "directions": 4
+    },
+    {
+      "name": "shotgun",
+      "directions": 4
+    },
+    {
+      "name": "cshotgun",
+      "directions": 4
+    },
+    {
+      "name": "dshotgun",
+      "directions": 4
+    },
+    {
+      "name": "dshotgun",
+      "directions": 4
+    },
+    {
+      "name": "welderpack",
+      "directions": 4
+    },
+    {
+      "name": "medicalsatchel",
+      "directions": 4
+    },
+    {
+      "name": "satchel-eng",
+      "directions": 4
+    },
+    {
+      "name": "satchel-med",
+      "directions": 4
+    },
+    {
+      "name": "satchel-chem",
+      "directions": 4
+    },
+    {
+      "name": "satchel-gen",
+      "directions": 4
+    },
+    {
+      "name": "satchel-tox",
+      "directions": 4
+    },
+    {
+      "name": "satchel-vir",
+      "directions": 4
+    },
+    {
+      "name": "satchel-sec",
+      "directions": 4
+    },
+    {
+      "name": "satchel-cap",
+      "directions": 4
+    },
+    {
+      "name": "satchel-norm",
+      "directions": 4
+    },
+    {
+      "name": "satchel_hyd",
+      "directions": 4
+    },
+    {
+      "name": "katana",
+      "directions": 4
+    },
+    {
+      "name": "scythe",
+      "directions": 4
+    },
+    {
+      "name": "toddler",
+      "directions": 4,
+      "delays": [
+        [
+          0.3,
+          2
+        ],
+        [
+          0.3,
+          2
+        ],
+        [
+          0.3,
+          2
+        ],
+        [
+          0.3,
+          2
+        ]
+      ]
+    },
+    {
+      "name": "sniper",
+      "directions": 4
+    },
+    {
+      "name": "sniper100",
+      "directions": 4
+    },
+    {
+      "name": "sniper75",
+      "directions": 4
+    },
+    {
+      "name": "sniper50",
+      "directions": 4
+    },
+    {
+      "name": "sniper25",
+      "directions": 4
+    },
+    {
+      "name": "sniper0",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle100",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle75",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle50",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle25",
+      "directions": 4
+    },
+    {
+      "name": "ionrifle0",
+      "directions": 4
+    },
+    {
+      "name": "pneumatic",
+      "directions": 4
+    },
+    {
+      "name": "pneumatic-tank",
+      "directions": 4
+    },
+    {
+      "name": "spearglass0",
+      "directions": 4
+    },
+    {
+      "name": "hydpack",
+      "directions": 4
+    },
+    {
+      "name": "viropack",
+      "directions": 4
+    },
+    {
+      "name": "toxpack",
+      "directions": 4
+    },
+    {
+      "name": "genpack",
+      "directions": 4
+    },
+    {
+      "name": "chempack",
+      "directions": 4
+    },
+    {
+      "name": "ert_commander",
+      "directions": 4
+    },
+    {
+      "name": "ert_security",
+      "directions": 4
+    },
+    {
+      "name": "ert_medical",
+      "directions": 4
+    },
+    {
+      "name": "ert_engineering",
+      "directions": 4
+    },
+    {
+      "name": "metalbat0",
+      "directions": 4
+    },
+    {
+      "name": "crossbow-solid",
+      "directions": 4
+    },
+    {
+      "name": "arifle",
+      "directions": 4
+    },
+    {
+      "name": "sheetcaptain",
+      "directions": 4
+    },
+    {
+      "name": "sheetce",
+      "directions": 4
+    },
+    {
+      "name": "sheethos",
+      "directions": 4
+    },
+    {
+      "name": "sheethop",
+      "directions": 4
+    },
+    {
+      "name": "sheetyellow",
+      "directions": 4
+    },
+    {
+      "name": "sheetcentcom",
+      "directions": 4
+    },
+    {
+      "name": "sheetcmo",
+      "directions": 4
+    },
+    {
+      "name": "sheetrainbow",
+      "directions": 4
+    },
+    {
+      "name": "bedsheet",
+      "directions": 4
+    },
+    {
+      "name": "sheetgreen",
+      "directions": 4
+    },
+    {
+      "name": "sheetblue",
+      "directions": 4
+    },
+    {
+      "name": "sheetmime",
+      "directions": 4
+    },
+    {
+      "name": "sheetclown",
+      "directions": 4
+    },
+    {
+      "name": "sheetrd",
+      "directions": 4
+    },
+    {
+      "name": "sheetbrown",
+      "directions": 4
+    },
+    {
+      "name": "sheetorange",
+      "directions": 4
+    },
+    {
+      "name": "sheetqm",
+      "directions": 4
+    },
+    {
+      "name": "sheetmedical",
+      "directions": 4
+    },
+    {
+      "name": "sheetpurple",
+      "directions": 4
+    },
+    {
+      "name": "sheetred",
+      "directions": 4
+    },
+    {
+      "name": "duffle",
+      "directions": 4
+    },
+    {
+      "name": "duffle_syndiemed",
+      "directions": 4
+    },
+    {
+      "name": "duffle_captain",
+      "directions": 4
+    },
+    {
+      "name": "duffle_sec",
+      "directions": 4
+    },
+    {
+      "name": "duffle_med",
+      "directions": 4
+    },
+    {
+      "name": "duffle_eng",
+      "directions": 4
+    },
+    {
+      "name": "duffle_syndieammo",
+      "directions": 4
+    },
+    {
+      "name": "duffle_syndie",
+      "directions": 4
+    },
+    {
+      "name": "z8carbine",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon0",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon25",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon50",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon75",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon100",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon",
+      "directions": 4
+    },
+    {
+      "name": "coolingpack",
+      "directions": 4
+    },
+    {
+      "name": "defibunit",
+      "directions": 4
+    },
+    {
+      "name": "courierbag",
+      "directions": 4
+    },
+    {
+      "name": "courierbagchem",
+      "directions": 4
+    },
+    {
+      "name": "courierbagmed",
+      "directions": 4
+    },
+    {
+      "name": "courierbagviro",
+      "directions": 4
+    },
+    {
+      "name": "courierbagtox",
+      "directions": 4
+    },
+    {
+      "name": "courierbagcom",
+      "directions": 4
+    },
+    {
+      "name": "courierbagengi",
+      "directions": 4
+    },
+    {
+      "name": "courierbaghyd",
+      "directions": 4
+    },
+    {
+      "name": "courierbagsec",
+      "directions": 4
+    },
+    {
+      "name": "coilgun",
+      "directions": 4
+    },
+    {
+      "name": "fannypack_white",
+      "directions": 4
+    },
+    {
+      "name": "fannypack_big_white",
+      "directions": 4
+    },
+    {
+      "name": "folded",
+      "directions": 4
+    },
+    {
+      "name": "satchel_black",
+      "directions": 4
+    },
+    {
+      "name": "pulse",
+      "directions": 4
+    },
+    {
+      "name": "laser",
+      "directions": 4
+    },
+    {
+      "name": "lasercannon",
+      "directions": 4
+    },
+    {
+      "name": "xray",
+      "directions": 4
+    },
+    {
+      "name": "freezegun",
+      "directions": 4
+    },
+    {
+      "name": "c20r",
+      "directions": 4
+    },
+    {
+      "name": "satchel-nt",
+      "directions": 4
+    },
+    {
+      "name": "ntpack",
+      "directions": 4
+    },
+    {
+      "name": "courierbagnt",
+      "directions": 4
+    },
+    {
+      "name": "boltaction",
+      "directions": 4
+    },
+    {
+      "name": "autorifle",
+      "directions": 4
+    },
+    {
+      "name": "autorifle-e",
+      "directions": 4
+    },
+    {
+      "name": "machinepistol",
+      "directions": 4
+    },
+    {
+      "name": "machinepistol-e",
+      "directions": 4
+    },
+    {
+      "name": "hmg",
+      "directions": 4
+    },
+    {
+      "name": "hmg-e",
+      "directions": 4
+    },
+    {
+      "name": "mosin2",
+      "directions": 4
+    },
+    {
+      "name": "mosin",
+      "directions": 4
+    },
+    {
+      "name": "mosin2",
+      "directions": 4
+    },
+    {
+      "name": "mosin",
+      "directions": 4
+    },
+    {
+      "name": "mosin2",
+      "directions": 4
+    },
+    {
+      "name": "leverchester",
+      "directions": 4
+    },
+    {
+      "name": "flamethrower-tank_back",
+      "directions": 4
+    },
+    {
+      "name": "winchesteralt",
+      "directions": 4
+    },
+    {
+      "name": "leverchesteralt",
+      "directions": 4
+    },
+    {
+      "name": "trenchaxe",
+      "directions": 4
+    },
+    {
+      "name": "sawnchester",
+      "directions": 4
+    },
+    {
+      "name": "autoshotty",
+      "directions": 4
+    },
+    {
+      "name": "autoshotty-e",
+      "directions": 4
+    },
+    {
+      "name": "warfare_backpack",
+      "directions": 4
+    },
+    {
+      "name": "warfare_satchel",
+      "directions": 4
+    },
+    {
+      "name": "heavysniper",
+      "directions": 4
+    },
+    {
+      "name": "chestrig",
+      "directions": 4
+    },
+    {
+      "name": "rsc",
+      "directions": 4
+    },
+    {
+      "name": "rsc-e",
+      "directions": 4
+    },
+    {
+      "name": "lasgun",
+      "directions": 4
+    },
+    {
+      "name": "voxcaster",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "servitor_pack",
+      "directions": 4
+    },
+    {
+      "name": "kriegpack",
+      "directions": 4
+    },
+    {
+      "name": "grenpack",
+      "directions": 4
+    },
+    {
+      "name": "um_back",
+      "directions": 4
+    },
+    {
+      "name": "sister",
+      "directions": 4
+    },
+    {
+      "name": "mlsister",
+      "directions": 4
+    },
+    {
+      "name": "brsister",
+      "directions": 4
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "M_Backpack-Icon",
+      "directions": 4
+    },
+    {
+      "name": "M_SBackpack-Icon",
+      "directions": 4
+    },
+    {
+      "name": "kriegback",
+      "directions": 4
+    },
+    {
+      "name": "ScionBackpack",
+      "directions": 4
+    }
+  ]
+}

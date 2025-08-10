@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "00",
+      "directions": 4
+    },
+    {
+      "name": "10",
+      "directions": 4
+    },
+    {
+      "name": "20",
+      "directions": 4
+    },
+    {
+      "name": "30",
+      "directions": 4
+    },
+    {
+      "name": "01",
+      "directions": 4
+    },
+    {
+      "name": "11",
+      "directions": 4
+    },
+    {
+      "name": "21",
+      "directions": 4
+    },
+    {
+      "name": "31",
+      "directions": 4
+    },
+    {
+      "name": "02",
+      "directions": 4
+    },
+    {
+      "name": "12",
+      "directions": 4
+    },
+    {
+      "name": "22",
+      "directions": 4
+    },
+    {
+      "name": "32",
+      "directions": 4
+    },
+    {
+      "name": "03",
+      "directions": 4
+    },
+    {
+      "name": "13",
+      "directions": 4
+    },
+    {
+      "name": "23",
+      "directions": 4
+    },
+    {
+      "name": "33",
+      "directions": 4
+    }
+  ]
+}

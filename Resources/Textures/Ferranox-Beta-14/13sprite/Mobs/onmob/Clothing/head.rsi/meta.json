@@ -1,0 +1,3140 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "deathsquad",
+      "directions": 4
+    },
+    {
+      "name": "bio",
+      "directions": 4
+    },
+    {
+      "name": "bio_general",
+      "directions": 4
+    },
+    {
+      "name": "bio_virology",
+      "directions": 4
+    },
+    {
+      "name": "bio_security",
+      "directions": 4
+    },
+    {
+      "name": "bio_janitor",
+      "directions": 4
+    },
+    {
+      "name": "bombsuit",
+      "directions": 4
+    },
+    {
+      "name": "bombsuit_white",
+      "directions": 4
+    },
+    {
+      "name": "bombsuitOld",
+      "directions": 4
+    },
+    {
+      "name": "bombsuitsecold",
+      "directions": 4
+    },
+    {
+      "name": "bio_scientist",
+      "directions": 4
+    },
+    {
+      "name": "rad",
+      "directions": 4
+    },
+    {
+      "name": "space",
+      "directions": 4
+    },
+    {
+      "name": "capspace",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-green",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-green-dark",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-orange",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-orange_light",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-orange_light1",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-blue",
+      "directions": 4
+    },
+    {
+      "name": "helmet_barney",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-green",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-blue",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-med",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-orange",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-red",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-engie",
+      "directions": 4
+    },
+    {
+      "name": "syndicate-helm-black-engie1",
+      "directions": 4
+    },
+    {
+      "name": "swatglass",
+      "directions": 4
+    },
+    {
+      "name": "swatold",
+      "directions": 4
+    },
+    {
+      "name": "syndicate",
+      "directions": 4
+    },
+    {
+      "name": "tophat",
+      "directions": 4
+    },
+    {
+      "name": "cake0",
+      "directions": 4
+    },
+    {
+      "name": "cake1",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "thunderdome",
+      "directions": 4
+    },
+    {
+      "name": "wizard",
+      "directions": 4
+    },
+    {
+      "name": "santahat",
+      "directions": 4
+    },
+    {
+      "name": "pwig",
+      "directions": 4
+    },
+    {
+      "name": "centcom",
+      "directions": 4
+    },
+    {
+      "name": "captain",
+      "directions": 4
+    },
+    {
+      "name": "paper",
+      "directions": 4
+    },
+    {
+      "name": "securityold",
+      "directions": 4
+    },
+    {
+      "name": "viking"
+    },
+    {
+      "name": "chefhat",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_yellow",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_orange",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_white",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_red",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_dblue",
+      "directions": 4
+    },
+    {
+      "name": "rig-old"
+    },
+    {
+      "name": "witch",
+      "directions": 4
+    },
+    {
+      "name": "flat_cap",
+      "directions": 4
+    },
+    {
+      "name": "cowboy"
+    },
+    {
+      "name": "pirate",
+      "directions": 4
+    },
+    {
+      "name": "bandana",
+      "directions": 4
+    },
+    {
+      "name": "plaguedoctor",
+      "directions": 4
+    },
+    {
+      "name": "headslime",
+      "directions": 4
+    },
+    {
+      "name": "ushankadown",
+      "directions": 4
+    },
+    {
+      "name": "ushankaup",
+      "directions": 4
+    },
+    {
+      "name": "wizard-fake",
+      "directions": 4
+    },
+    {
+      "name": "rig-old",
+      "directions": 4
+    },
+    {
+      "name": "redwizard",
+      "directions": 4
+    },
+    {
+      "name": "bunny",
+      "directions": 4
+    },
+    {
+      "name": "violetwizard",
+      "directions": 4
+    },
+    {
+      "name": "kitty",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "kittyinner",
+      "directions": 4
+    },
+    {
+      "name": "welding",
+      "directions": 4
+    },
+    {
+      "name": "weldingup",
+      "directions": 4
+    },
+    {
+      "name": "weldingup",
+      "directions": 4
+    },
+    {
+      "name": "welding",
+      "directions": 4
+    },
+    {
+      "name": "marisa",
+      "directions": 4
+    },
+    {
+      "name": "s-ninja",
+      "directions": 4
+    },
+    {
+      "name": "void",
+      "directions": 4
+    },
+    {
+      "name": "capcap",
+      "directions": 4
+    },
+    {
+      "name": "chaplain_hood",
+      "directions": 4
+    },
+    {
+      "name": "nun_hood",
+      "directions": 4
+    },
+    {
+      "name": "nursehat",
+      "directions": 4
+    },
+    {
+      "name": "bowler",
+      "directions": 4
+    },
+    {
+      "name": "secsoft",
+      "directions": 4
+    },
+    {
+      "name": "secsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "greenbandana",
+      "directions": 4
+    },
+    {
+      "name": "xenom",
+      "directions": 4
+    },
+    {
+      "name": "metroid",
+      "directions": 4
+    },
+    {
+      "name": "petehat",
+      "directions": 4
+    },
+    {
+      "name": "mailman",
+      "directions": 4
+    },
+    {
+      "name": "culthood",
+      "directions": 4
+    },
+    {
+      "name": "cueball",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          5.6
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          5.6
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          5.6
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          5.6
+        ]
+      ]
+    },
+    {
+      "name": "sombrero",
+      "directions": 4
+    },
+    {
+      "name": "hasturhood",
+      "directions": 4
+    },
+    {
+      "name": "redcoat",
+      "directions": 4
+    },
+    {
+      "name": "dermal",
+      "directions": 4
+    },
+    {
+      "name": "hgpiratecap",
+      "directions": 4
+    },
+    {
+      "name": "magus",
+      "directions": 4
+    },
+    {
+      "name": "cargosoft",
+      "directions": 4
+    },
+    {
+      "name": "cargosoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "gladiator",
+      "directions": 4
+    },
+    {
+      "name": "cardborg_h",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_pumpkin",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1_pumpkin",
+      "directions": 4
+    },
+    {
+      "name": "bio_cmo",
+      "directions": 4
+    },
+    {
+      "name": "engspace_helmet",
+      "directions": 4
+    },
+    {
+      "name": "cespace_helmet",
+      "directions": 4
+    },
+    {
+      "name": "rig0-white",
+      "directions": 4
+    },
+    {
+      "name": "rig0-wiz",
+      "directions": 4
+    },
+    {
+      "name": "rig0-secTG",
+      "directions": 4
+    },
+    {
+      "name": "cult_helmet",
+      "directions": 4
+    },
+    {
+      "name": "cult_hoodalt",
+      "directions": 4
+    },
+    {
+      "name": "redsoft",
+      "directions": 4
+    },
+    {
+      "name": "redsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "bluesoft",
+      "directions": 4
+    },
+    {
+      "name": "bluesoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "greensoft",
+      "directions": 4
+    },
+    {
+      "name": "greensoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "yellowsoft",
+      "directions": 4
+    },
+    {
+      "name": "yellowsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "greysoft",
+      "directions": 4
+    },
+    {
+      "name": "greysoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "orangesoft",
+      "directions": 4
+    },
+    {
+      "name": "orangesoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "mimesoft",
+      "directions": 4
+    },
+    {
+      "name": "mimesoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "purplesoft",
+      "directions": 4
+    },
+    {
+      "name": "rainbowsoft",
+      "directions": 4
+    },
+    {
+      "name": "rainbowsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "purplesoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "blacksoft",
+      "directions": 4
+    },
+    {
+      "name": "blacksoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "bearpelt",
+      "directions": 4
+    },
+    {
+      "name": "xmashat",
+      "directions": 4
+    },
+    {
+      "name": "chickenhead",
+      "directions": 4
+    },
+    {
+      "name": "xenos",
+      "directions": 4
+    },
+    {
+      "name": "alice_mccrea_1up",
+      "directions": 4
+    },
+    {
+      "name": "alice_mccrea_1",
+      "directions": 4
+    },
+    {
+      "name": "orange_bandana",
+      "directions": 4
+    },
+    {
+      "name": "yuki_matsuda_1up",
+      "directions": 4
+    },
+    {
+      "name": "yuki_matsuda_1",
+      "directions": 4
+    },
+    {
+      "name": "enos_adlai_1",
+      "directions": 4
+    },
+    {
+      "name": "norah_briggs_1",
+      "directions": 4
+    },
+    {
+      "name": "norah_briggs_1up",
+      "directions": 4
+    },
+    {
+      "name": "edvin_telephosphor_1",
+      "directions": 4
+    },
+    {
+      "name": "surgcap_green",
+      "directions": 4
+    },
+    {
+      "name": "surgcap_purple",
+      "directions": 4
+    },
+    {
+      "name": "surgcap_blue",
+      "directions": 4
+    },
+    {
+      "name": "neilpatterson0_hat",
+      "directions": 4
+    },
+    {
+      "name": "neilpatterson1_hat",
+      "directions": 4
+    },
+    {
+      "name": "hairflower",
+      "directions": 4
+    },
+    {
+      "name": "krinn_hat",
+      "directions": 4
+    },
+    {
+      "name": "amp",
+      "directions": 4
+    },
+    {
+      "name": "brucehachert",
+      "directions": 4
+    },
+    {
+      "name": "rig0-ert_commander",
+      "directions": 4
+    },
+    {
+      "name": "rig0-ert_security",
+      "directions": 4
+    },
+    {
+      "name": "rig0-ert_medical",
+      "directions": 4
+    },
+    {
+      "name": "rig0-ert_engineer",
+      "directions": 4
+    },
+    {
+      "name": "policehelm",
+      "directions": 4
+    },
+    {
+      "name": "hoscap",
+      "directions": 4
+    },
+    {
+      "name": "hoscap",
+      "directions": 4
+    },
+    {
+      "name": "corpsoft",
+      "directions": 4
+    },
+    {
+      "name": "corpsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "skrell_helmet_white",
+      "directions": 4
+    },
+    {
+      "name": "skrell_helmet_black",
+      "directions": 4
+    },
+    {
+      "name": "rig0-syndie",
+      "directions": 4
+    },
+    {
+      "name": "gentcap",
+      "directions": 4
+    },
+    {
+      "name": "nymph",
+      "directions": 4
+    },
+    {
+      "name": "swathelm",
+      "directions": 4
+    },
+    {
+      "name": "bombsuitsec",
+      "directions": 4
+    },
+    {
+      "name": "cat",
+      "directions": 4
+    },
+    {
+      "name": "zhan_scarf",
+      "directions": 4
+    },
+    {
+      "name": "paintedweldingup",
+      "directions": 4
+    },
+    {
+      "name": "paintedwelding",
+      "directions": 4
+    },
+    {
+      "name": "rig0-hazardhardsuit",
+      "directions": 4
+    },
+    {
+      "name": "fez",
+      "directions": 4
+    },
+    {
+      "name": "feather_trilby",
+      "directions": 4
+    },
+    {
+      "name": "boater_hat",
+      "directions": 4
+    },
+    {
+      "name": "beaver_hat",
+      "directions": 4
+    },
+    {
+      "name": "bowler_hat",
+      "directions": 4
+    },
+    {
+      "name": "fedora",
+      "directions": 4
+    },
+    {
+      "name": "erthelmet_cmd",
+      "directions": 4
+    },
+    {
+      "name": "erthelmet_med",
+      "directions": 4
+    },
+    {
+      "name": "erthelmet_sec",
+      "directions": 4
+    },
+    {
+      "name": "erthelmet_eng",
+      "directions": 4
+    },
+    {
+      "name": "v62",
+      "directions": 4
+    },
+    {
+      "name": "hopcap",
+      "directions": 4
+    },
+    {
+      "name": "officercap",
+      "directions": 4
+    },
+    {
+      "name": "philosopher_wig",
+      "directions": 4
+    },
+    {
+      "name": "engineering_rig",
+      "directions": 4
+    },
+    {
+      "name": "engineering_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "security_rig",
+      "directions": 4
+    },
+    {
+      "name": "security_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ninja_rig",
+      "directions": 4
+    },
+    {
+      "name": "ninja_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "medical_rig",
+      "directions": 4
+    },
+    {
+      "name": "medical_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "hacker_rig",
+      "directions": 4
+    },
+    {
+      "name": "hacker_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_commander_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_security_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_medical_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_engineer_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "ert_commander_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_security_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_medical_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_engineer_rig",
+      "directions": 4
+    },
+    {
+      "name": "helmetold",
+      "directions": 4
+    },
+    {
+      "name": "ce_rig",
+      "directions": 4
+    },
+    {
+      "name": "ce_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_cheap",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_cheap_sealed",
+      "directions": 4
+    },
+    {
+      "name": "breacher_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "cat3",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig",
+      "directions": 4
+    },
+    {
+      "name": "science_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "science_rig",
+      "directions": 4
+    },
+    {
+      "name": "richard",
+      "directions": 4
+    },
+    {
+      "name": "emergencyhelm",
+      "directions": 4
+    },
+    {
+      "name": "asset_protection_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "asset_protection_rig",
+      "directions": 4
+    },
+    {
+      "name": "eva_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "eva_rig",
+      "directions": 4
+    },
+    {
+      "name": "hazard_rig",
+      "directions": 4
+    },
+    {
+      "name": "hazard_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "mouse_brown",
+      "directions": 4
+    },
+    {
+      "name": "secalt_helm",
+      "directions": 4
+    },
+    {
+      "name": "civ-helm",
+      "directions": 4
+    },
+    {
+      "name": "swatold",
+      "directions": 4
+    },
+    {
+      "name": "pai-cat",
+      "directions": 4
+    },
+    {
+      "name": "bio_anom",
+      "directions": 4
+    },
+    {
+      "name": "cat2",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_blue",
+      "directions": 4
+    },
+    {
+      "name": "mouse_gray",
+      "directions": 4
+    },
+    {
+      "name": "mouse_white",
+      "directions": 4
+    },
+    {
+      "name": "ert_janitor_rig",
+      "directions": 4
+    },
+    {
+      "name": "hijab",
+      "directions": 4
+    },
+    {
+      "name": "helmetoldup",
+      "directions": 4
+    },
+    {
+      "name": "sec_helm",
+      "directions": 4
+    },
+    {
+      "name": "kippa",
+      "directions": 4
+    },
+    {
+      "name": "stealth_rig",
+      "directions": 4
+    },
+    {
+      "name": "repairbot",
+      "directions": 4
+    },
+    {
+      "name": "eng_helm",
+      "directions": 4
+    },
+    {
+      "name": "medical_helm",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_yellow",
+      "directions": 4
+    },
+    {
+      "name": "riotoldup",
+      "directions": 4
+    },
+    {
+      "name": "mining_helm",
+      "directions": 4
+    },
+    {
+      "name": "surgcap_navyblue",
+      "directions": 4
+    },
+    {
+      "name": "engalt_helm",
+      "directions": 4
+    },
+    {
+      "name": "military_rig",
+      "directions": 4
+    },
+    {
+      "name": "ert_janitor_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "medicalalt_helm",
+      "directions": 4
+    },
+    {
+      "name": "neaera",
+      "directions": 4
+    },
+    {
+      "name": "pai-repairbot",
+      "directions": 4
+    },
+    {
+      "name": "constructiondrone",
+      "directions": 4
+    },
+    {
+      "name": "hairflower_pink",
+      "directions": 4
+    },
+    {
+      "name": "pai-monkey",
+      "directions": 4
+    },
+    {
+      "name": "farwa",
+      "directions": 4
+    },
+    {
+      "name": "stok",
+      "directions": 4
+    },
+    {
+      "name": "riotold",
+      "directions": 4
+    },
+    {
+      "name": "kitten",
+      "directions": 4
+    },
+    {
+      "name": "swatoldup",
+      "directions": 4
+    },
+    {
+      "name": "miningalt_helm",
+      "directions": 4
+    },
+    {
+      "name": "atmos_helm",
+      "directions": 4
+    },
+    {
+      "name": "turban",
+      "directions": 4
+    },
+    {
+      "name": "helmetold",
+      "directions": 4
+    },
+    {
+      "name": "military_rig_sealed",
+      "directions": 4
+    },
+    {
+      "name": "atmosalt_helm",
+      "directions": 4
+    },
+    {
+      "name": "stealth_rig_sealed",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "syndie_helm",
+      "directions": 4
+    },
+    {
+      "name": "pai-mouse",
+      "directions": 4
+    },
+    {
+      "name": "excavation-helm",
+      "directions": 4
+    },
+    {
+      "name": "monkey",
+      "directions": 4
+    },
+    {
+      "name": "towel",
+      "directions": 4
+    },
+    {
+      "name": "pai-rabbit",
+      "directions": 4
+    },
+    {
+      "name": "cowboy_hat",
+      "directions": 4
+    },
+    {
+      "name": "surgcap_black",
+      "directions": 4
+    },
+    {
+      "name": "helmet",
+      "directions": 4
+    },
+    {
+      "name": "helmet_security",
+      "directions": 4
+    },
+    {
+      "name": "helmet_command",
+      "directions": 4
+    },
+    {
+      "name": "helmet_nt",
+      "directions": 4
+    },
+    {
+      "name": "helmet_pcrc",
+      "directions": 4
+    },
+    {
+      "name": "helmet_sol",
+      "directions": 4
+    },
+    {
+      "name": "helmet_tac",
+      "directions": 4
+    },
+    {
+      "name": "helmet_merc",
+      "directions": 4
+    },
+    {
+      "name": "helmet_bulletproof",
+      "directions": 4
+    },
+    {
+      "name": "helmet_reflect",
+      "directions": 4
+    },
+    {
+      "name": "helmet_riot",
+      "directions": 4
+    },
+    {
+      "name": "helmet_riot_up",
+      "directions": 4
+    },
+    {
+      "name": "beret",
+      "directions": 4
+    },
+    {
+      "name": "beret_lightblue",
+      "directions": 4
+    },
+    {
+      "name": "beret_red",
+      "directions": 4
+    },
+    {
+      "name": "beret_orange",
+      "directions": 4
+    },
+    {
+      "name": "beret_purpleyellow",
+      "directions": 4
+    },
+    {
+      "name": "beret_blue",
+      "directions": 4
+    },
+    {
+      "name": "beret_green",
+      "directions": 4
+    },
+    {
+      "name": "beret_white",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_red",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_navy",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_navy_officer",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_navy_warden",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_navy_hos",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_officer",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_warden",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_hos",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_white",
+      "directions": 4
+    },
+    {
+      "name": "beret_purple",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy_security",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy_medical",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy_engineering",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy_supply",
+      "directions": 4
+    },
+    {
+      "name": "beret_navy_command",
+      "directions": 4
+    },
+    {
+      "name": "beret_black",
+      "directions": 4
+    },
+    {
+      "name": "beret_black_security",
+      "directions": 4
+    },
+    {
+      "name": "beret_black_medical",
+      "directions": 4
+    },
+    {
+      "name": "beret_black_engineering",
+      "directions": 4
+    },
+    {
+      "name": "beret_black_supply",
+      "directions": 4
+    },
+    {
+      "name": "beret_black_command",
+      "directions": 4
+    },
+    {
+      "name": "expeditionsoft",
+      "directions": 4
+    },
+    {
+      "name": "expeditionsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "expeditioncomsoft",
+      "directions": 4
+    },
+    {
+      "name": "expeditioncomsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "navyutility",
+      "directions": 4
+    },
+    {
+      "name": "fleetsoft",
+      "directions": 4
+    },
+    {
+      "name": "fleetsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "greenutility",
+      "directions": 4
+    },
+    {
+      "name": "tanutility",
+      "directions": 4
+    },
+    {
+      "name": "greyutility",
+      "directions": 4
+    },
+    {
+      "name": "greenwheelcap",
+      "directions": 4
+    },
+    {
+      "name": "greengarrisoncap",
+      "directions": 4
+    },
+    {
+      "name": "greenwheelcap_com",
+      "directions": 4
+    },
+    {
+      "name": "greengarrisoncap_com",
+      "directions": 4
+    },
+    {
+      "name": "greendrill",
+      "directions": 4
+    },
+    {
+      "name": "greydresscap",
+      "directions": 4
+    },
+    {
+      "name": "greydresscap_com",
+      "directions": 4
+    },
+    {
+      "name": "whitepeakcap",
+      "directions": 4
+    },
+    {
+      "name": "whitepeakcap_com",
+      "directions": 4
+    },
+    {
+      "name": "whitewheelcap",
+      "directions": 4
+    },
+    {
+      "name": "whitewheelcap_com",
+      "directions": 4
+    },
+    {
+      "name": "mbillsoft",
+      "directions": 4
+    },
+    {
+      "name": "mbillsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "salvage_helm",
+      "directions": 4
+    },
+    {
+      "name": "detective2",
+      "directions": 4
+    },
+    {
+      "name": "detective",
+      "directions": 4
+    },
+    {
+      "name": "demonweldingup",
+      "directions": 4
+    },
+    {
+      "name": "demonwelding",
+      "directions": 4
+    },
+    {
+      "name": "knightweldingup",
+      "directions": 4
+    },
+    {
+      "name": "knightwelding",
+      "directions": 4
+    },
+    {
+      "name": "fancyweldingup",
+      "directions": 4
+    },
+    {
+      "name": "fancywelding",
+      "directions": 4
+    },
+    {
+      "name": "engieweldingup",
+      "directions": 4
+    },
+    {
+      "name": "engiewelding",
+      "directions": 4
+    },
+    {
+      "name": "helmet_ntguard",
+      "directions": 4
+    },
+    {
+      "name": "ntwhitesoft",
+      "directions": 4
+    },
+    {
+      "name": "ntwhitesoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "beret_corporate_whitered",
+      "directions": 4
+    },
+    {
+      "name": "solsoft",
+      "directions": 4
+    },
+    {
+      "name": "solsoft_flipped",
+      "directions": 4
+    },
+    {
+      "name": "bow",
+      "directions": 4
+    },
+    {
+      "name": "ecushankadown",
+      "directions": 4
+    },
+    {
+      "name": "ecushankaup",
+      "directions": 4
+    },
+    {
+      "name": "flushankadown",
+      "directions": 4
+    },
+    {
+      "name": "flushankaup",
+      "directions": 4
+    },
+    {
+      "name": "mcushankadown",
+      "directions": 4
+    },
+    {
+      "name": "mcushankaup",
+      "directions": 4
+    },
+    {
+      "name": "bmcushankadown",
+      "directions": 4
+    },
+    {
+      "name": "bmcushankaup",
+      "directions": 4
+    },
+    {
+      "name": "carpwelding",
+      "directions": 4
+    },
+    {
+      "name": "carpweldingup",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig_heavy_sealed",
+      "directions": 4
+    },
+    {
+      "name": "merc_rig_heavy",
+      "directions": 4
+    },
+    {
+      "name": "taqiyah",
+      "directions": 4
+    },
+    {
+      "name": "facecover",
+      "directions": 4
+    },
+    {
+      "name": "beret_redgold",
+      "directions": 4
+    },
+    {
+      "name": "beret_graysilver",
+      "directions": 4
+    },
+    {
+      "name": "cap_veteran",
+      "directions": 4
+    },
+    {
+      "name": "beret_tan",
+      "directions": 4
+    },
+    {
+      "name": "beret_greensilver",
+      "directions": 4
+    },
+    {
+      "name": "arbiter",
+      "directions": 4
+    },
+    {
+      "name": "inquisitor",
+      "directions": 4
+    },
+    {
+      "name": "crown",
+      "directions": 4
+    },
+    {
+      "name": "crown",
+      "directions": 4
+    },
+    {
+      "name": "crownOLD",
+      "directions": 4
+    },
+    {
+      "name": "mco",
+      "directions": 4
+    },
+    {
+      "name": "brim-hat",
+      "directions": 4
+    },
+    {
+      "name": "gasmask",
+      "directions": 4
+    },
+    {
+      "name": "hardhat",
+      "directions": 4
+    },
+    {
+      "name": "hhlightoff",
+      "directions": 4
+    },
+    {
+      "name": "hhlighton",
+      "directions": 4
+    },
+    {
+      "name": "redhelmet",
+      "directions": 4
+    },
+    {
+      "name": "bluehelmet",
+      "directions": 4
+    },
+    {
+      "name": "redhelmet_leader",
+      "directions": 4
+    },
+    {
+      "name": "redhelmet_medic",
+      "directions": 4
+    },
+    {
+      "name": "bluehelmet_leader",
+      "directions": 4
+    },
+    {
+      "name": "bluehelmet_medic",
+      "directions": 4
+    },
+    {
+      "name": "redcap",
+      "directions": 4
+    },
+    {
+      "name": "bluecap",
+      "directions": 4
+    },
+    {
+      "name": "redoffcap",
+      "directions": 4
+    },
+    {
+      "name": "blueoffcap",
+      "directions": 4
+    },
+    {
+      "name": "redsentryhelmet",
+      "directions": 4
+    },
+    {
+      "name": "bluesentryhelmet",
+      "directions": 4
+    },
+    {
+      "name": "redfirehelmet",
+      "directions": 4
+    },
+    {
+      "name": "bluefirehelmet",
+      "directions": 4
+    },
+    {
+      "name": "prac_hat",
+      "directions": 4
+    },
+    {
+      "name": "prac_cap",
+      "directions": 4
+    },
+    {
+      "name": "redhelmnam",
+      "directions": 4
+    },
+    {
+      "name": "redhelmnam_medic",
+      "directions": 4
+    },
+    {
+      "name": "redhelmnam_leader",
+      "directions": 4
+    },
+    {
+      "name": "bluehelm_winter",
+      "directions": 4
+    },
+    {
+      "name": "redhelm_winter",
+      "directions": 4
+    },
+    {
+      "name": "captain_hat",
+      "directions": 4
+    },
+    {
+      "name": "bluesniperhelmet",
+      "directions": 4
+    },
+    {
+      "name": "redsniperhelmet",
+      "directions": 4
+    },
+    {
+      "name": "redgarrisoncap",
+      "directions": 4
+    },
+    {
+      "name": "bluegarrisoncap",
+      "directions": 4
+    },
+    {
+      "name": "redsargecap",
+      "directions": 4
+    },
+    {
+      "name": "bluesargecap",
+      "directions": 4
+    },
+    {
+      "name": "redmedicalcap",
+      "directions": 4
+    },
+    {
+      "name": "bluemedicalcap",
+      "directions": 4
+    },
+    {
+      "name": "rednursehat",
+      "directions": 4
+    },
+    {
+      "name": "bluenursehat",
+      "directions": 4
+    },
+    {
+      "name": "guardold",
+      "directions": 4
+    },
+    {
+      "name": "guard",
+      "directions": 4
+    },
+    {
+      "name": "deldhelmet",
+      "directions": 4
+    },
+    {
+      "name": "eldhelmet",
+      "directions": 4
+    },
+    {
+      "name": "helmetgoggles",
+      "directions": 4
+    },
+    {
+      "name": "helmetthermals",
+      "directions": 4
+    },
+    {
+      "name": "helmetmesons",
+      "directions": 4
+    },
+    {
+      "name": "helmetNVG",
+      "directions": 4
+    },
+    {
+      "name": "spaceold",
+      "directions": 4
+    },
+    {
+      "name": "capspace",
+      "directions": 4
+    },
+    {
+      "name": "swat",
+      "directions": 4
+    },
+    {
+      "name": "swat-alt",
+      "directions": 4
+    },
+    {
+      "name": "old wizard",
+      "directions": 4
+    },
+    {
+      "name": "oldcaptain",
+      "directions": 4
+    },
+    {
+      "name": "chef",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1_white",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1_red",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1_dblue",
+      "directions": 4
+    },
+    {
+      "name": "old hoscap",
+      "directions": 4
+    },
+    {
+      "name": "riot",
+      "directions": 4
+    },
+    {
+      "name": "rig1-wiz",
+      "directions": 4
+    },
+    {
+      "name": "rig0-mining",
+      "directions": 4
+    },
+    {
+      "name": "rig1-mining",
+      "directions": 4
+    },
+    {
+      "name": "rig0-syndi",
+      "directions": 4
+    },
+    {
+      "name": "rig1-syndi",
+      "directions": 4
+    },
+    {
+      "name": "rig0-sec",
+      "directions": 4
+    },
+    {
+      "name": "rig1-sec",
+      "directions": 4
+    },
+    {
+      "name": "hosberet",
+      "directions": 4
+    },
+    {
+      "name": "officerberet",
+      "directions": 4
+    },
+    {
+      "name": "wardenberet",
+      "directions": 4
+    },
+    {
+      "name": "rig0-medical",
+      "directions": 4
+    },
+    {
+      "name": "rig1-medical",
+      "directions": 4
+    },
+    {
+      "name": "paper_words",
+      "directions": 4
+    },
+    {
+      "name": "rig0-atmospherics",
+      "directions": 4
+    },
+    {
+      "name": "rig1-atmospherics",
+      "directions": 4
+    },
+    {
+      "name": "harebell",
+      "directions": 4
+    },
+    {
+      "name": "poppy",
+      "directions": 4
+    },
+    {
+      "name": "sunflower",
+      "directions": 4
+    },
+    {
+      "name": "moonflower",
+      "directions": 4
+    },
+    {
+      "name": "novaflower",
+      "directions": 4
+    },
+    {
+      "name": "roman_c",
+      "directions": 4
+    },
+    {
+      "name": "roman",
+      "directions": 4
+    },
+    {
+      "name": "ambrosiavulgaris",
+      "directions": 4
+    },
+    {
+      "name": "ambrosiadeus",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1_reindeer",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0_reindeer",
+      "directions": 4
+    },
+    {
+      "name": "lingspacehelmet",
+      "directions": 4
+    },
+    {
+      "name": "shamebrero",
+      "directions": 4
+    },
+    {
+      "name": "power_armour_helmet",
+      "directions": 4
+    },
+    {
+      "name": "rig0-ancient",
+      "directions": 4
+    },
+    {
+      "name": "rig1-ancient",
+      "directions": 4
+    },
+    {
+      "name": "billydonkahat",
+      "directions": 4
+    },
+    {
+      "name": "eng-ert update",
+      "directions": 4
+    },
+    {
+      "name": "rig1-engicold",
+      "directions": 4
+    },
+    {
+      "name": "rig0-atmocold",
+      "directions": 4
+    },
+    {
+      "name": "rig1-atmocold",
+      "directions": 4
+    },
+    {
+      "name": "rig0-minecold",
+      "directions": 4
+    },
+    {
+      "name": "rig1-minecold",
+      "directions": 4
+    },
+    {
+      "name": "beanie",
+      "directions": 4
+    },
+    {
+      "name": "maidbow",
+      "directions": 4
+    },
+    {
+      "name": "imperialhelmet",
+      "directions": 4
+    },
+    {
+      "name": "old umhelmet",
+      "directions": 4
+    },
+    {
+      "name": "old shelmet",
+      "directions": 4
+    },
+    {
+      "name": "comm",
+      "directions": 4
+    },
+    {
+      "name": "sisterold",
+      "directions": 4
+    },
+    {
+      "name": "inqhat",
+      "directions": 4
+    },
+    {
+      "name": "FWhelmold2",
+      "directions": 4
+    },
+    {
+      "name": "FWhelmold",
+      "directions": 4
+    },
+    {
+      "name": "inq2hat",
+      "directions": 4
+    },
+    {
+      "name": "umhelmet",
+      "directions": 4
+    },
+    {
+      "name": "captain2",
+      "directions": 4
+    },
+    {
+      "name": "khelmet",
+      "directions": 4
+    },
+    {
+      "name": "cadianhelmet",
+      "directions": 4
+    },
+    {
+      "name": "shelmet",
+      "directions": 4
+    },
+    {
+      "name": "ehelmet",
+      "directions": 4
+    },
+    {
+      "name": "oldrghelmet",
+      "directions": 4
+    },
+    {
+      "name": "oldrghelmet2",
+      "directions": 4
+    },
+    {
+      "name": "orkhat",
+      "directions": 4
+    },
+    {
+      "name": "warlockold",
+      "directions": 4
+    },
+    {
+      "name": "oldrghelmet3",
+      "directions": 4
+    },
+    {
+      "name": "exorcist_helmet",
+      "directions": 4
+    },
+    {
+      "name": "rghelmet2",
+      "directions": 4
+    },
+    {
+      "name": "rghelmet",
+      "directions": 4
+    },
+    {
+      "name": "pmhelmet",
+      "directions": 4
+    },
+    {
+      "name": "flakhelmet",
+      "directions": 4
+    },
+    {
+      "name": "valhalla",
+      "directions": 4
+    },
+    {
+      "name": "carapace",
+      "directions": 4
+    },
+    {
+      "name": "corsairold",
+      "directions": 4
+    },
+    {
+      "name": "XV15",
+      "directions": 4
+    },
+    {
+      "name": "hophat",
+      "directions": 4
+    },
+    {
+      "name": "ihhelmet",
+      "directions": 4
+    },
+    {
+      "name": "KBpower",
+      "directions": 4
+    },
+    {
+      "name": "tbreaold",
+      "directions": 4
+    },
+    {
+      "name": "XV25",
+      "directions": 4
+    },
+    {
+      "name": "harlequin",
+      "directions": 4
+    },
+    {
+      "name": "necron",
+      "directions": 4
+    },
+    {
+      "name": "ksonsold",
+      "directions": 4
+    },
+    {
+      "name": "crappyhalo",
+      "directions": 4
+    },
+    {
+      "name": "umcap",
+      "directions": 4
+    },
+    {
+      "name": "comissar2",
+      "directions": 4
+    },
+    {
+      "name": "smcap",
+      "directions": 4
+    },
+    {
+      "name": "enforcer",
+      "directions": 4
+    },
+    {
+      "name": "comissar3",
+      "directions": 4
+    },
+    {
+      "name": "rig0-engineering",
+      "directions": 4
+    },
+    {
+      "name": "techpriest",
+      "directions": 4
+    },
+    {
+      "name": "sisteroldd",
+      "directions": 4
+    },
+    {
+      "name": "stormh",
+      "directions": 4
+    },
+    {
+      "name": "um_helm_old",
+      "directions": 4
+    },
+    {
+      "name": "um_devhelm",
+      "directions": 4
+    },
+    {
+      "name": "umcpt_helm",
+      "directions": 4
+    },
+    {
+      "name": "sl_helm",
+      "directions": 4
+    },
+    {
+      "name": "sl_devhelm",
+      "directions": 4
+    },
+    {
+      "name": "slcpt_helm",
+      "directions": 4
+    },
+    {
+      "name": "rgcpt_helm",
+      "directions": 4
+    },
+    {
+      "name": "nco_helm",
+      "directions": 4
+    },
+    {
+      "name": "apoth_helm",
+      "directions": 4
+    },
+    {
+      "name": "techie_helm",
+      "directions": 4
+    },
+    {
+      "name": "ksons",
+      "directions": 4
+    },
+    {
+      "name": "repentia",
+      "directions": 4
+    },
+    {
+      "name": "sister",
+      "directions": 4
+    },
+    {
+      "name": "nm_helm",
+      "directions": 4
+    },
+    {
+      "name": "um_vet",
+      "directions": 4
+    },
+    {
+      "name": "sl_lib",
+      "directions": 4
+    },
+    {
+      "name": "um_lib",
+      "directions": 4
+    },
+    {
+      "name": "rg_lib",
+      "directions": 4
+    },
+    {
+      "name": "FWhelmold3",
+      "directions": 4
+    },
+    {
+      "name": "bio_hood",
+      "directions": 4
+    },
+    {
+      "name": "witchhunter",
+      "directions": 4
+    },
+    {
+      "name": "decenthat",
+      "directions": 4
+    },
+    {
+      "name": "cavecrown",
+      "directions": 4
+    },
+    {
+      "name": "healerhat",
+      "directions": 4
+    },
+    {
+      "name": "fisherhat",
+      "directions": 4
+    },
+    {
+      "name": "Big_Hat_2_Worn",
+      "directions": 4
+    },
+    {
+      "name": "cyberdeck",
+      "directions": 4
+    },
+    {
+      "name": "broken_tspacehelmet",
+      "directions": 4
+    },
+    {
+      "name": "broken_tspacehelmetL0",
+      "directions": 4
+    },
+    {
+      "name": "sovietushankadown",
+      "directions": 4
+    },
+    {
+      "name": "sovietushankaup",
+      "directions": 4
+    },
+    {
+      "name": "tspacehelmet",
+      "directions": 4
+    },
+    {
+      "name": "tspacehelmetL1",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "tncaptain",
+      "directions": 4
+    },
+    {
+      "name": "gskullopen",
+      "directions": 4
+    },
+    {
+      "name": "bishophat",
+      "directions": 4
+    },
+    {
+      "name": "nun",
+      "directions": 4
+    },
+    {
+      "name": "ojester",
+      "directions": 4
+    },
+    {
+      "name": "siegehelmet",
+      "directions": 4
+    },
+    {
+      "name": "newopen",
+      "directions": 4
+    },
+    {
+      "name": "skullopen",
+      "directions": 4
+    },
+    {
+      "name": "cargohat",
+      "directions": 4
+    },
+    {
+      "name": "anom_hood",
+      "directions": 4
+    },
+    {
+      "name": "tribhelm",
+      "directions": 4
+    },
+    {
+      "name": "spaceb",
+      "directions": 4
+    },
+    {
+      "name": "emergencyh",
+      "directions": 4
+    },
+    {
+      "name": "leper",
+      "directions": 4
+    },
+    {
+      "name": "pea1sant",
+      "directions": 4
+    },
+    {
+      "name": "pea2sant",
+      "directions": 4
+    },
+    {
+      "name": "combat",
+      "directions": 4
+    },
+    {
+      "name": "bag",
+      "directions": 4
+    },
+    {
+      "name": "cerberus",
+      "directions": 4
+    },
+    {
+      "name": "keeper",
+      "directions": 4
+    },
+    {
+      "name": "jester",
+      "directions": 4
+    },
+    {
+      "name": "castellan",
+      "directions": 4
+    },
+    {
+      "name": "pumpkin",
+      "directions": 4
+    },
+    {
+      "name": "hardhat0",
+      "directions": 4
+    },
+    {
+      "name": "hardhat1",
+      "directions": 4
+    },
+    {
+      "name": "servant",
+      "directions": 4
+    },
+    {
+      "name": "paladin0",
+      "directions": 4
+    },
+    {
+      "name": "hatblu",
+      "directions": 4
+    },
+    {
+      "name": "papakha",
+      "directions": 4
+    },
+    {
+      "name": "hatfur",
+      "directions": 4
+    },
+    {
+      "name": "paladin1",
+      "directions": 4
+    },
+    {
+      "name": "knight0",
+      "directions": 4
+    },
+    {
+      "name": "knight1",
+      "directions": 4
+    },
+    {
+      "name": "detectiveblack",
+      "directions": 4
+    },
+    {
+      "name": "3223",
+      "directions": 4
+    },
+    {
+      "name": "lhelmet",
+      "directions": 4
+    },
+    {
+      "name": "insecure",
+      "directions": 4
+    },
+    {
+      "name": "bardhat",
+      "directions": 4
+    },
+    {
+      "name": "ahelm",
+      "directions": 4
+    },
+    {
+      "name": "oldhat",
+      "directions": 4
+    },
+    {
+      "name": "2oldhat",
+      "directions": 4
+    },
+    {
+      "name": "zhardhat0",
+      "directions": 4
+    },
+    {
+      "name": "zhardhat1",
+      "directions": 4
+    },
+    {
+      "name": "hazhat_yellow",
+      "directions": 4
+    },
+    {
+      "name": "hazhat_white",
+      "directions": 4
+    },
+    {
+      "name": "obard",
+      "directions": 4
+    },
+    {
+      "name": "armorhelm",
+      "directions": 4
+    },
+    {
+      "name": "tjubeteika",
+      "directions": 4
+    },
+    {
+      "name": "hennin",
+      "directions": 4
+    },
+    {
+      "name": "ricehat",
+      "directions": 4
+    },
+    {
+      "name": "pillbox",
+      "directions": 4
+    },
+    {
+      "name": "smokingc",
+      "directions": 4
+    },
+    {
+      "name": "minitop",
+      "directions": 4
+    },
+    {
+      "name": "corno",
+      "directions": 4
+    },
+    {
+      "name": "bighat",
+      "directions": 4
+    },
+    {
+      "name": "plebhood",
+      "directions": 4
+    },
+    {
+      "name": "armingcap",
+      "directions": 4
+    },
+    {
+      "name": "fancyhat_old",
+      "directions": 4
+    },
+    {
+      "name": "chaperon",
+      "directions": 4
+    },
+    {
+      "name": "headband",
+      "directions": 4
+    },
+    {
+      "name": "sny",
+      "directions": 4
+    },
+    {
+      "name": "zealot",
+      "directions": 4
+    },
+    {
+      "name": "mindreader",
+      "directions": 4
+    },
+    {
+      "name": "scarf",
+      "directions": 4
+    },
+    {
+      "name": "hero0",
+      "directions": 4
+    },
+    {
+      "name": "hero1",
+      "directions": 4
+    },
+    {
+      "name": "nushankadown",
+      "directions": 4
+    },
+    {
+      "name": "nushankaup",
+      "directions": 4
+    },
+    {
+      "name": "mijester",
+      "directions": 4
+    },
+    {
+      "name": "admeme",
+      "directions": 4
+    },
+    {
+      "name": "Tau_T",
+      "directions": 4
+    },
+    {
+      "name": "corsair",
+      "directions": 4
+    },
+    {
+      "name": "guardian",
+      "directions": 4
+    },
+    {
+      "name": "warlock",
+      "directions": 4
+    },
+    {
+      "name": "hereticushat",
+      "directions": 4
+    },
+    {
+      "name": "seer",
+      "directions": 4
+    },
+    {
+      "name": "fwhelmold",
+      "directions": 4
+    },
+    {
+      "name": "guevesa",
+      "directions": 4
+    },
+    {
+      "name": "bluetaghelm",
+      "directions": 4
+    },
+    {
+      "name": "redtaghelm",
+      "directions": 4
+    },
+    {
+      "name": "greensombrero",
+      "directions": 4
+    },
+    {
+      "name": "medicaeold",
+      "directions": 4
+    },
+    {
+      "name": "vigilante_hat",
+      "directions": 4
+    },
+    {
+      "name": "servitor_helmet",
+      "directions": 4
+    },
+    {
+      "name": "servitor_helmet2",
+      "directions": 4
+    },
+    {
+      "name": "genetor",
+      "directions": 4
+    },
+    {
+      "name": "ushanka",
+      "directions": 4
+    },
+    {
+      "name": "scum",
+      "directions": 4
+    },
+    {
+      "name": "inq_helm",
+      "directions": 4
+    },
+    {
+      "name": "techpriest_old",
+      "directions": 4
+    },
+    {
+      "name": "rtdriphat",
+      "directions": 4
+    },
+    {
+      "name": "medicae",
+      "directions": 4
+    },
+    {
+      "name": "uni_chap",
+      "directions": 4
+    },
+    {
+      "name": "skithood",
+      "directions": 4
+    },
+    {
+      "name": "krieghelm_OLD",
+      "directions": 4
+    },
+    {
+      "name": "grenhelm_OLD",
+      "directions": 4
+    },
+    {
+      "name": "mkrieghelm_OLD",
+      "directions": 4
+    },
+    {
+      "name": "br_helm",
+      "directions": 4
+    },
+    {
+      "name": "techpriestnew",
+      "directions": 4
+    },
+    {
+      "name": "magoshelm",
+      "directions": 4
+    },
+    {
+      "name": "Commissar4Hat",
+      "directions": 4
+    },
+    {
+      "name": "KriegissarHat_OLD",
+      "directions": 4
+    },
+    {
+      "name": "CataCommissarHat",
+      "directions": 4
+    },
+    {
+      "name": "krieghelm",
+      "directions": 4
+    },
+    {
+      "name": "KriegissarHat",
+      "directions": 4
+    },
+    {
+      "name": "Jhelm1",
+      "directions": 4
+    },
+    {
+      "name": "Jhelm2",
+      "directions": 4
+    },
+    {
+      "name": "um_helm",
+      "directions": 4
+    },
+    {
+      "name": "Catachan_Headband",
+      "directions": 4
+    },
+    {
+      "name": "mCatachan_Headband",
+      "directions": 4
+    },
+    {
+      "name": "orkhelmet",
+      "directions": 4
+    },
+    {
+      "name": "orkhelmetfur",
+      "directions": 4
+    },
+    {
+      "name": "orkhelmetsight",
+      "directions": 4
+    },
+    {
+      "name": "orkhelmethorns",
+      "directions": 4
+    },
+    {
+      "name": "orkknot",
+      "directions": 4
+    },
+    {
+      "name": "ork_helm",
+      "directions": 4
+    },
+    {
+      "name": "valshanka",
+      "directions": 4
+    },
+    {
+      "name": "valshanka2",
+      "directions": 4
+    },
+    {
+      "name": "mvalshanka",
+      "directions": 4
+    },
+    {
+      "name": "mvalshanka2",
+      "directions": 4
+    },
+    {
+      "name": "senturban",
+      "directions": 4
+    },
+    {
+      "name": "fancyhat",
+      "directions": 4
+    },
+    {
+      "name": "fwhelm",
+      "directions": 4
+    },
+    {
+      "name": "scout",
+      "directions": 4
+    },
+    {
+      "name": "tbrea",
+      "directions": 4
+    },
+    {
+      "name": "wshield",
+      "directions": 4
+    },
+    {
+      "name": "bloodpacthelm1",
+      "directions": 4
+    },
+    {
+      "name": "bloodpacthelm2",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "hood1",
+      "directions": 4
+    },
+    {
+      "name": "hood2",
+      "directions": 4
+    },
+    {
+      "name": "hood3",
+      "directions": 4
+    },
+    {
+      "name": "vraks1",
+      "directions": 4
+    },
+    {
+      "name": "vraks2",
+      "directions": 4
+    },
+    {
+      "name": "vraks3",
+      "directions": 4
+    },
+    {
+      "name": "hood",
+      "directions": 4
+    },
+    {
+      "name": "sgt_cap",
+      "directions": 4
+    },
+    {
+      "name": "guard_cap",
+      "directions": 4
+    },
+    {
+      "name": "sarge_cap",
+      "directions": 4
+    },
+    {
+      "name": "soul",
+      "directions": 4
+    },
+    {
+      "name": "hauberkhood",
+      "directions": 4
+    },
+    {
+      "name": "hevhelm",
+      "directions": 4
+    },
+    {
+      "name": "sheriffhat",
+      "directions": 4
+    },
+    {
+      "name": "marinehelm",
+      "directions": 4
+    },
+    {
+      "name": "foxhelm",
+      "directions": 4
+    },
+    {
+      "name": "lightpahelm",
+      "directions": 4
+    },
+    {
+      "name": "knighthelm",
+      "directions": 4
+    },
+    {
+      "name": "berserkerhelm",
+      "directions": 4
+    },
+    {
+      "name": "metalhelmet",
+      "directions": 4
+    },
+    {
+      "name": "seolhelm",
+      "directions": 4
+    },
+    {
+      "name": "ranger_oldup",
+      "directions": 4
+    },
+    {
+      "name": "ranger1",
+      "directions": 4
+    },
+    {
+      "name": "reconhood",
+      "directions": 4
+    },
+    {
+      "name": "raider_combat_helmet",
+      "directions": 4
+    },
+    {
+      "name": "dragon",
+      "directions": 4
+    },
+    {
+      "name": "doom",
+      "directions": 4
+    },
+    {
+      "name": "leglad",
+      "directions": 4
+    },
+    {
+      "name": "siege_helmet",
+      "directions": 4
+    },
+    {
+      "name": "repentia_hood",
+      "directions": 4
+    },
+    {
+      "name": "mlsister",
+      "directions": 4
+    },
+    {
+      "name": "brsister",
+      "directions": 4
+    },
+    {
+      "name": "cult_chanter",
+      "directions": 4
+    },
+    {
+      "name": "aeldar_mask",
+      "directions": 4
+    },
+    {
+      "name": "renegade_militia_mask",
+      "directions": 4
+    },
+    {
+      "name": "kasrkinhelmet",
+      "directions": 4
+    },
+    {
+      "name": "preacherhat",
+      "directions": 4
+    },
+    {
+      "name": "kasrkinhelmetb",
+      "directions": 4
+    },
+    {
+      "name": "newguard",
+      "directions": 4
+    },
+    {
+      "name": "prince",
+      "directions": 4
+    },
+    {
+      "name": "enforcerhat",
+      "directions": 4
+    },
+    {
+      "name": "WatchHelm",
+      "directions": 4
+    },
+    {
+      "name": "femquisitor-hat_worn",
+      "directions": 4
+    },
+    {
+      "name": "M_Helmet-Icon",
+      "directions": 4
+    },
+    {
+      "name": "M_SHelmet-Icon",
+      "directions": 4
+    },
+    {
+      "name": "ScionHelmet",
+      "directions": 4
+    },
+    {
+      "name": "i-stormtrooper helmet",
+      "directions": 4
+    },
+    {
+      "name": "MineWorkerH",
+      "directions": 4
+    },
+    {
+      "name": "PalaniteHelmet",
+      "directions": 4
+    },
+    {
+      "name": "MarshalHelm",
+      "directions": 4
+    },
+    {
+      "name": "freeboota",
+      "directions": 4
+    },
+    {
+      "name": "tzeecult1",
+      "directions": 4
+    },
+    {
+      "name": "tzeecult2",
+      "directions": 4
+    },
+    {
+      "name": "tzeecult3",
+      "directions": 4
+    },
+    {
+      "name": "tzeecult4",
+      "directions": 4
+    },
+    {
+      "name": "PDF-H",
+      "directions": 4
+    },
+    {
+      "name": "PDF-SpecialH",
+      "directions": 4
+    },
+    {
+      "name": "PDF-MedicH",
+      "directions": 4
+    }
+  ]
+}

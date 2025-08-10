@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "reclaimer"
+    },
+    {
+      "name": "wall0"
+    },
+    {
+      "name": "wall1"
+    },
+    {
+      "name": "wall2"
+    },
+    {
+      "name": "wall3"
+    },
+    {
+      "name": "wall4"
+    },
+    {
+      "name": "wall5"
+    },
+    {
+      "name": "wall6"
+    },
+    {
+      "name": "wall7"
+    },
+    {
+      "name": "wall8"
+    },
+    {
+      "name": "wall9"
+    },
+    {
+      "name": "wall10"
+    },
+    {
+      "name": "wall11"
+    },
+    {
+      "name": "wall12"
+    },
+    {
+      "name": "wall13"
+    },
+    {
+      "name": "wall14"
+    },
+    {
+      "name": "wall15"
+    },
+    {
+      "name": "membrane0"
+    },
+    {
+      "name": "membrane1"
+    },
+    {
+      "name": "membrane2"
+    },
+    {
+      "name": "membrane3"
+    },
+    {
+      "name": "membrane4"
+    },
+    {
+      "name": "membrane5"
+    },
+    {
+      "name": "membrane6"
+    },
+    {
+      "name": "membrane7"
+    },
+    {
+      "name": "membrane8"
+    },
+    {
+      "name": "membrane9"
+    },
+    {
+      "name": "membrane10"
+    },
+    {
+      "name": "membrane11"
+    },
+    {
+      "name": "membrane12"
+    },
+    {
+      "name": "membrane13"
+    },
+    {
+      "name": "membrane14"
+    },
+    {
+      "name": "membrane15"
+    },
+    {
+      "name": "nest"
+    },
+    {
+      "name": "weednode"
+    },
+    {
+      "name": "weeds"
+    },
+    {
+      "name": "weeds1"
+    },
+    {
+      "name": "weeds2"
+    },
+    {
+      "name": "genestealerold",
+      "directions": 4
+    },
+    {
+      "name": "lictor",
+      "directions": 4
+    },
+    {
+      "name": "ripper_old",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "sludge"
+    },
+    {
+      "name": "ripper_dead"
+    },
+    {
+      "name": "ripper",
+      "directions": 4,
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ripper_non_animated",
+      "directions": 4
+    },
+    {
+      "name": "spikes1"
+    },
+    {
+      "name": "spikes2"
+    },
+    {
+      "name": "spikes3"
+    },
+    {
+      "name": "hormagaunt",
+      "directions": 4
+    },
+    {
+      "name": "warrior",
+      "directions": 4
+    },
+    {
+      "name": "venomthropes",
+      "directions": 4
+    },
+    {
+      "name": "mine"
+    },
+    {
+      "name": "genestealer",
+      "directions": 4
+    },
+    {
+      "name": "resin"
+    },
+    {
+      "name": "resinopen"
+    },
+    {
+      "name": "resinopening",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "resinclosing",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    }
+  ]
+}

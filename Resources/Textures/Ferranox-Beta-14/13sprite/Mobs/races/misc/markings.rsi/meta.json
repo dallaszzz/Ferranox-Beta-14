@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "!! These are Full Body uncut markings"
+    },
+    {
+      "name": "taj_pawsocks",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female",
+      "directions": 4
+    },
+    {
+      "name": "patches",
+      "directions": 4
+    },
+    {
+      "name": "bands",
+      "directions": 4
+    },
+    {
+      "name": "tiger",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger",
+      "directions": 4
+    },
+    {
+      "name": "!! These are per-bodypart versions"
+    },
+    {
+      "name": "taj_pawsocks-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "taj_pawsocks-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "una_pawsocks-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "pawsocks-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-groin",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "pawsocksbelly-chest",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-groin",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeetsmall-chest",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-groin",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet-chest",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-groin_m",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "bellyhandsfeet_female-chest",
+      "directions": 4
+    },
+    {
+      "name": "patches-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "patches-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "patches-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "patches-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "patches-groin",
+      "directions": 4
+    },
+    {
+      "name": "patches-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "patches-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "patches-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "patches-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "patches-chest",
+      "directions": 4
+    },
+    {
+      "name": "bands-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "bands-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "bands-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "bands-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "bands-groin",
+      "directions": 4
+    },
+    {
+      "name": "bands-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "bands-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "bands-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "bands-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "bands-chest",
+      "directions": 4
+    },
+    {
+      "name": "tiger-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "tiger-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "tiger-groin",
+      "directions": 4
+    },
+    {
+      "name": "tiger-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "tiger-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "tiger-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "tiger-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "tiger-chest",
+      "directions": 4
+    },
+    {
+      "name": "!! These are single bodypart markings"
+    },
+    {
+      "name": "backstripe-chest",
+      "directions": 4
+    },
+    {
+      "name": "taj_belly-chest",
+      "directions": 4
+    },
+    {
+      "name": "taj_bellyfull-chest",
+      "directions": 4
+    },
+    {
+      "name": "taj_earsout-head",
+      "directions": 4
+    },
+    {
+      "name": "taj_earsin-head",
+      "directions": 4
+    },
+    {
+      "name": "taj_nose-head",
+      "directions": 4
+    },
+    {
+      "name": "taj_crest-chest",
+      "directions": 4
+    },
+    {
+      "name": "taj_muzzle-head",
+      "directions": 4
+    },
+    {
+      "name": "taj_face-head",
+      "directions": 4
+    },
+    {
+      "name": "taj_all-head",
+      "directions": 4
+    },
+    {
+      "name": "una_face-head",
+      "directions": 4
+    },
+    {
+      "name": "una_facelow-head",
+      "directions": 4
+    },
+    {
+      "name": "una_scutes-chest",
+      "directions": 4
+    },
+    {
+      "name": "patchesface-head",
+      "directions": 4
+    },
+    {
+      "name": "bandsface-head",
+      "directions": 4
+    },
+    {
+      "name": "tigerhead-head",
+      "directions": 4
+    },
+    {
+      "name": "tigerface-head",
+      "directions": 4
+    },
+    {
+      "name": "tat_heart-chest",
+      "directions": 4
+    },
+    {
+      "name": "tat_hive-chest",
+      "directions": 4
+    },
+    {
+      "name": "tat_nightling-chest",
+      "directions": 4
+    },
+    {
+      "name": "tat_campbell-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "tat_campbell-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-r_arm",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-l_arm",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-r_hand",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-l_hand",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-groin",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-r_leg",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-l_leg",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-r_foot",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-l_foot",
+      "directions": 4
+    },
+    {
+      "name": "tat_tiger-chest",
+      "directions": 4
+    },
+    {
+      "name": "bodyhair-chest",
+      "directions": 4
+    },
+    {
+      "name": "bodyhair-groin",
+      "directions": 4
+    }
+  ]
+}

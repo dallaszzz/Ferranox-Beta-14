@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "torso"
+    },
+    {
+      "name": "groin"
+    },
+    {
+      "name": "l_leg"
+    },
+    {
+      "name": "r_leg"
+    },
+    {
+      "name": "r_arm"
+    },
+    {
+      "name": "l_arm"
+    },
+    {
+      "name": "r_hand"
+    },
+    {
+      "name": "l_hand"
+    },
+    {
+      "name": "head"
+    },
+    {
+      "name": "mouth"
+    },
+    {
+      "name": "l_foot"
+    },
+    {
+      "name": "r_foot"
+    }
+  ]
+}

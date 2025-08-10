@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "id",
+      "directions": 4
+    },
+    {
+      "name": "id2",
+      "directions": 4
+    },
+    {
+      "name": "id_card",
+      "directions": 4
+    },
+    {
+      "name": "id_dogtag",
+      "directions": 4
+    },
+    {
+      "name": "id",
+      "directions": 4
+    },
+    {
+      "name": "id2",
+      "directions": 4
+    },
+    {
+      "name": "id",
+      "directions": 4
+    },
+    {
+      "name": "id2"
+    }
+  ]
+}

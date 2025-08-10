@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "template"
+    },
+    {
+      "name": "template2"
+    },
+    {
+      "name": "gun",
+      "directions": 4
+    },
+    {
+      "name": "gun2"
+    },
+    {
+      "name": "handcuff",
+      "directions": 4
+    },
+    {
+      "name": "handcuff2"
+    },
+    {
+      "name": "healthanalyzer",
+      "directions": 4
+    },
+    {
+      "name": "healthanalyzer2"
+    },
+    {
+      "name": "electronic",
+      "directions": 4
+    },
+    {
+      "name": "electronic2"
+    },
+    {
+      "name": "classic_baton"
+    },
+    {
+      "name": "classic_baton2"
+    },
+    {
+      "name": "pen",
+      "directions": 4
+    },
+    {
+      "name": "pen2"
+    },
+    {
+      "name": "gun_1",
+      "directions": 4
+    },
+    {
+      "name": "gun_2",
+      "directions": 4
+    },
+    {
+      "name": "gun_3",
+      "directions": 4
+    },
+    {
+      "name": "gun_12"
+    },
+    {
+      "name": "gun_22"
+    },
+    {
+      "name": "gun_32"
+    },
+    {
+      "name": "handcuff_1"
+    },
+    {
+      "name": "handcuff_5"
+    },
+    {
+      "name": "handcuff_2"
+    },
+    {
+      "name": "handcuff_4"
+    },
+    {
+      "name": "handcuff_3"
+    },
+    {
+      "name": "handcuff_12"
+    },
+    {
+      "name": "handcuff_52"
+    },
+    {
+      "name": "handcuff_22"
+    },
+    {
+      "name": "handcuff_42"
+    },
+    {
+      "name": "handcuff_32"
+    },
+    {
+      "name": "electronic_1"
+    },
+    {
+      "name": "electronic_5"
+    },
+    {
+      "name": "electronic_2"
+    },
+    {
+      "name": "electronic_4"
+    },
+    {
+      "name": "electronic_3"
+    },
+    {
+      "name": "electronic_12"
+    },
+    {
+      "name": "electronic_52"
+    },
+    {
+      "name": "electronic_22"
+    },
+    {
+      "name": "electronic_42"
+    },
+    {
+      "name": "electronic_32"
+    },
+    {
+      "name": "healthanalyzer_1"
+    },
+    {
+      "name": "healthanalyzer_5"
+    },
+    {
+      "name": "healthanalyzer_2"
+    },
+    {
+      "name": "healthanalyzer_4"
+    },
+    {
+      "name": "healthanalyzer_3"
+    },
+    {
+      "name": "healthanalyzer_12"
+    },
+    {
+      "name": "healthanalyzer_52"
+    },
+    {
+      "name": "healthanalyzer_22"
+    },
+    {
+      "name": "healthanalyzer_42"
+    },
+    {
+      "name": "healthanalyzer_32"
+    },
+    {
+      "name": "pen_1"
+    },
+    {
+      "name": "pen_5"
+    },
+    {
+      "name": "pen_2"
+    },
+    {
+      "name": "pen_4"
+    },
+    {
+      "name": "pen_3"
+    },
+    {
+      "name": "pen_12"
+    },
+    {
+      "name": "pen_52"
+    },
+    {
+      "name": "pen_22"
+    },
+    {
+      "name": "pen_42"
+    },
+    {
+      "name": "pen_32"
+    },
+    {
+      "name": "em_oxtank",
+      "directions": 4
+    },
+    {
+      "name": "utility",
+      "directions": 4
+    },
+    {
+      "name": "utility2"
+    },
+    {
+      "name": "injector",
+      "directions": 4
+    },
+    {
+      "name": "suspenders",
+      "directions": 4
+    },
+    {
+      "name": "suspenders2"
+    },
+    {
+      "name": "baton",
+      "directions": 4
+    },
+    {
+      "name": "baton2"
+    },
+    {
+      "name": "fluff_rbelt",
+      "directions": 4
+    },
+    {
+      "name": "fluff_rbelt2"
+    },
+    {
+      "name": "boltaction",
+      "directions": 4
+    },
+    {
+      "name": "autorifle",
+      "directions": 4
+    },
+    {
+      "name": "autorifle-e",
+      "directions": 4
+    },
+    {
+      "name": "machinepistol",
+      "directions": 4
+    },
+    {
+      "name": "machinepistol-e",
+      "directions": 4
+    },
+    {
+      "name": "hmg",
+      "directions": 4
+    },
+    {
+      "name": "hmg-e",
+      "directions": 4
+    },
+    {
+      "name": "winchester",
+      "directions": 4
+    },
+    {
+      "name": "boltaction",
+      "directions": 4
+    },
+    {
+      "name": "hmg",
+      "directions": 4
+    },
+    {
+      "name": "schmeiser",
+      "directions": 4
+    },
+    {
+      "name": "schmeiser-e",
+      "directions": 4
+    },
+    {
+      "name": "autorifle",
+      "directions": 4
+    },
+    {
+      "name": "winchester",
+      "directions": 4
+    },
+    {
+      "name": "mosin2",
+      "directions": 4
+    },
+    {
+      "name": "mosin",
+      "directions": 4
+    },
+    {
+      "name": "satchel",
+      "directions": 4
+    },
+    {
+      "name": "medicalsatchel",
+      "directions": 4
+    },
+    {
+      "name": "satchel-eng",
+      "directions": 4
+    },
+    {
+      "name": "satchel-med",
+      "directions": 4
+    },
+    {
+      "name": "satchel-chem",
+      "directions": 4
+    },
+    {
+      "name": "satchel-gen",
+      "directions": 4
+    },
+    {
+      "name": "satchel-tox",
+      "directions": 4
+    },
+    {
+      "name": "satchel-vir",
+      "directions": 4
+    },
+    {
+      "name": "satchel-sec",
+      "directions": 4
+    },
+    {
+      "name": "satchel-cap",
+      "directions": 4
+    },
+    {
+      "name": "satchel-norm",
+      "directions": 4
+    },
+    {
+      "name": "akarabiner",
+      "directions": 4
+    },
+    {
+      "name": "machinepistolalt",
+      "directions": 4
+    },
+    {
+      "name": "leverchester",
+      "directions": 4
+    },
+    {
+      "name": "flamethrower-tank_back",
+      "directions": 4
+    },
+    {
+      "name": "winchesteralt",
+      "directions": 4
+    },
+    {
+      "name": "leverchesteralt",
+      "directions": 4
+    },
+    {
+      "name": "dshotgun",
+      "directions": 4
+    },
+    {
+      "name": "trenchaxe",
+      "directions": 4
+    },
+    {
+      "name": "sawnchester",
+      "directions": 4
+    },
+    {
+      "name": "autoshotty",
+      "directions": 4
+    },
+    {
+      "name": "autoshotty-e",
+      "directions": 4
+    },
+    {
+      "name": "heavysniper",
+      "directions": 4
+    },
+    {
+      "name": "warfare_satchel",
+      "directions": 4
+    },
+    {
+      "name": "chestrig",
+      "directions": 4
+    },
+    {
+      "name": "rsc",
+      "directions": 4
+    },
+    {
+      "name": "rsc-e",
+      "directions": 4
+    }
+  ]
+}

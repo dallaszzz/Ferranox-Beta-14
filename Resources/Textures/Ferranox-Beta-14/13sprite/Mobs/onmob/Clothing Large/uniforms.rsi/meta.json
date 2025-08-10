@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 40
+  },
+  "states": [
+    {
+      "name": "ogryn_full_s",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_pants_s",
+      "directions": 4
+    }
+  ]
+}

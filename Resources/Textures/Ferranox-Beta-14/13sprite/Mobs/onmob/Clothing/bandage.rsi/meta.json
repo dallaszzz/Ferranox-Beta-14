@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "head1",
+      "directions": 4
+    },
+    {
+      "name": "head2",
+      "directions": 4
+    },
+    {
+      "name": "head3",
+      "directions": 4
+    },
+    {
+      "name": "torso1",
+      "directions": 4
+    },
+    {
+      "name": "torso2",
+      "directions": 4
+    },
+    {
+      "name": "torso3",
+      "directions": 4
+    },
+    {
+      "name": "groin1",
+      "directions": 4
+    },
+    {
+      "name": "groin2",
+      "directions": 4
+    },
+    {
+      "name": "groin3",
+      "directions": 4
+    },
+    {
+      "name": "l_arm1",
+      "directions": 4
+    },
+    {
+      "name": "l_arm2",
+      "directions": 4
+    },
+    {
+      "name": "l_arm3",
+      "directions": 4
+    },
+    {
+      "name": "l_hand1",
+      "directions": 4
+    },
+    {
+      "name": "l_hand2",
+      "directions": 4
+    },
+    {
+      "name": "l_hand3",
+      "directions": 4
+    },
+    {
+      "name": "r_arm1",
+      "directions": 4
+    },
+    {
+      "name": "r_arm2",
+      "directions": 4
+    },
+    {
+      "name": "r_arm3",
+      "directions": 4
+    },
+    {
+      "name": "r_hand1",
+      "directions": 4
+    },
+    {
+      "name": "r_hand2",
+      "directions": 4
+    },
+    {
+      "name": "r_hand3",
+      "directions": 4
+    },
+    {
+      "name": "l_leg1",
+      "directions": 4
+    },
+    {
+      "name": "l_leg2",
+      "directions": 4
+    },
+    {
+      "name": "l_leg3",
+      "directions": 4
+    },
+    {
+      "name": "l_foot1",
+      "directions": 4
+    },
+    {
+      "name": "l_foot2",
+      "directions": 4
+    },
+    {
+      "name": "l_foot3",
+      "directions": 4
+    },
+    {
+      "name": "r_leg1",
+      "directions": 4
+    },
+    {
+      "name": "r_leg2",
+      "directions": 4
+    },
+    {
+      "name": "r_leg3",
+      "directions": 4
+    },
+    {
+      "name": "r_foot1",
+      "directions": 4
+    },
+    {
+      "name": "r_foot2",
+      "directions": 4
+    },
+    {
+      "name": "r_foot3",
+      "directions": 4
+    }
+  ]
+}

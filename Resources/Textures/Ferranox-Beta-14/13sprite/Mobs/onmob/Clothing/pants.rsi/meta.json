@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "jeans_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansclassic_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeans_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeansclassic_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeansmustang_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeansyoungfolks_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansmustang_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansyoungfolks_s",
+      "directions": 4
+    },
+    {
+      "name": "jeans_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansyoungfolks_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansclassic_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "jeans_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansmustang_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansmustang_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansclassic_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansyoungfolks_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "grey_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "blackpants_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansgrey_s",
+      "directions": 4
+    },
+    {
+      "name": "camopants_s",
+      "directions": 4
+    },
+    {
+      "name": "khaki_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "trackpants_s",
+      "directions": 4
+    },
+    {
+      "name": "tanpants_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeansblack_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_trackpants_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_jeansgrey_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_camopants_s",
+      "directions": 4
+    },
+    {
+      "name": "jeansblack_s",
+      "directions": 4
+    },
+    {
+      "name": "greypants_shorts_s",
+      "directions": 4
+    },
+    {
+      "name": "black_shorts_f_s",
+      "directions": 4
+    },
+    {
+      "name": "trackpantswhite_s",
+      "directions": 4
+    },
+    {
+      "name": "trackpantsblue_s",
+      "directions": 4
+    },
+    {
+      "name": "trackpantsgreen_s",
+      "directions": 4
+    },
+    {
+      "name": "trackpantsred_s",
+      "directions": 4
+    },
+    {
+      "name": "color select __"
+    },
+    {
+      "name": "pants_s",
+      "directions": 4
+    },
+    {
+      "name": "baggy_pants_s",
+      "directions": 4
+    },
+    {
+      "name": "shorts_s",
+      "directions": 4
+    }
+  ]
+}

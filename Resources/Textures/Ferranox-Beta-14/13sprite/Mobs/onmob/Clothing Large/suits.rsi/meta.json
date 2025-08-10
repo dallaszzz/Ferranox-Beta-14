@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 40
+  },
+  "states": [
+    {
+      "name": "bangsuit",
+      "directions": 4
+    },
+    {
+      "name": "ravsuit",
+      "directions": 4
+    },
+    {
+      "name": "salsuit",
+      "directions": 4
+    },
+    {
+      "name": "ultrasuit",
+      "directions": 4
+    },
+    {
+      "name": "ravcap",
+      "directions": 4
+    },
+    {
+      "name": "salcap",
+      "directions": 4
+    },
+    {
+      "name": "ultracap",
+      "directions": 4
+    },
+    {
+      "name": "bangapoth",
+      "directions": 4
+    },
+    {
+      "name": "ravapoth",
+      "directions": 4
+    },
+    {
+      "name": "salapoth",
+      "directions": 4
+    },
+    {
+      "name": "ultrapoth",
+      "directions": 4
+    },
+    {
+      "name": "bangtech",
+      "directions": 4
+    },
+    {
+      "name": "ravtech",
+      "directions": 4
+    },
+    {
+      "name": "saltech",
+      "directions": 4
+    },
+    {
+      "name": "ultratech",
+      "directions": 4
+    },
+    {
+      "name": "1ksuit",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_1",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_2",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_3",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_4",
+      "directions": 4
+    },
+    {
+      "name": "ogryn_5",
+      "directions": 4
+    },
+    {
+      "name": "ultraterm",
+      "directions": 4
+    },
+    {
+      "name": "emperorscc",
+      "directions": 4
+    },
+    {
+      "name": "lamenterc",
+      "directions": 4
+    },
+    {
+      "name": "alphalegc",
+      "directions": 4
+    },
+    {
+      "name": "ultrac",
+      "directions": 4
+    }
+  ]
+}
