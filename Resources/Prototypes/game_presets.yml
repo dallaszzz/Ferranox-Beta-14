@@ -255,3 +255,13 @@
   - KesslerSyndromeScheduler
   - SpaceTrafficControlEventScheduler
   - BasicRoundstartVariation
+
+  #Ferranox changes
+- type: gamePreset
+  id: FerranoxTestPreset
+  alias:
+  - ferranoxtest
+  name: FerranoxTestGamePresetName
+  description: FerranoxTestGamePresetDescription
+  showInVote: false
+  rules:
