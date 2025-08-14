@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "concrete"
+    },
+    {
+      "name": "concrete4",
+      "directions": 4
+    },
+    {
+      "name": "concrete5",
+      "directions": 4
+    },
+    {
+      "name": "concrete6",
+      "directions": 4
+    },
+    {
+      "name": "concrete7",
+      "directions": 4
+    },
+    {
+      "name": "concrete8"
+    }
+  ]
+}
