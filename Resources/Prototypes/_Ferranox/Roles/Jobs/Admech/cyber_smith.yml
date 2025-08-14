@@ -1,0 +1,22 @@
+- type: job
+  id: CyberSmith
+  name: job-name-cybersmith
+  description: job-description-cybersmith
+  playTimeTracker: JobCyberSmith
+  startingGear: CyberSmithGear
+  icon: "JobIconChiefEngineer" #replace this
+  supervisors: job-supervisors-captain #replace this
+  canBeAntag: false #decide on if this should be kept
+  access:
+  - Engineering #replace this
+
+- type: startingGear #fill this out
+  id: CyberSmithGear
+  equipment:
+    id: CEPDA
+    eyes: ClothingEyesGlassesMeson
+    ears: ClothingHeadsetCE
+    belt: ClothingBeltUtilityEngineering
+  storage:
+    back:
+    - Flash

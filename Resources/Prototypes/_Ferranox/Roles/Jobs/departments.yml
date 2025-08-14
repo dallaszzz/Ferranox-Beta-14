@@ -1,0 +1,9 @@
+- type: department
+  id: Admech
+  name: department-Admech
+  description: department-Admech-description
+  color: "#F92702" # a very strong red
+  roles:
+  - MechaSapient
+  - CyberSmith
+  - Menial

@@ -18,5 +18,6 @@
             prefixCreator: 'TG'
         - type: StationJobs
           availableJobs:
-            SalvageSpecialist: [ 3, 3 ]
-            Passenger: [ -1, -1 ] #infinite, not counted
+            MechaSapient: [ -1, -1 ] #infinite, not counted
+            CyberSmith: [ -1, -1 ]
+            Menial: [ -1, -1 ]
