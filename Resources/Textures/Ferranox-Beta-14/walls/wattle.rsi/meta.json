@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/WoodenTucker/40K-Eipharius",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "wattle"
+    },
+    {
+      "name": "wattle1"
+    },
+    {
+      "name": "wattle2",
+      "directions": 4
+    },
+    {
+      "name": "wattle3"
+    },
+    {
+      "name": "wattle4",
+      "directions": 4
+    },
+    {
+      "name": "wattle5",
+      "directions": 4
+    },
+    {
+      "name": "wattle6",
+      "directions": 4
+    },
+    {
+      "name": "wattle7"
+    },
+    {
+      "name": "wattledoor"
+    },
+    {
+      "name": "wattledooropening",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "wattledoorclosing",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "wattledooropen"
+    }
+  ]
+}
