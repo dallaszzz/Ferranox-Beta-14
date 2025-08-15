@@ -8,38 +8,38 @@
   },
   "states": [
     {
-      "name": "techno"
+      "name": "rockwall"
     },
     {
-      "name": "techno0",
+      "name": "rockwall0",
       "directions": 4
     },
     {
-      "name": "techno1",
+      "name": "rockwall1",
       "directions": 4
     },
     {
-      "name": "techno2",
+      "name": "rockwall2",
       "directions": 4
     },
     {
-      "name": "techno3",
+      "name": "rockwall3",
       "directions": 4
     },
     {
-      "name": "techno4",
+      "name": "rockwall4",
       "directions": 4
     },
     {
-      "name": "techno5",
+      "name": "rockwall5",
       "directions": 4
     },
     {
-      "name": "techno6",
+      "name": "rockwall6",
       "directions": 4
     },
     {
-      "name": "techno7",
+      "name": "rockwall7",
       "directions":  4
     }
   ]
