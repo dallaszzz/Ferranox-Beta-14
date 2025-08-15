@@ -99,3 +99,26 @@
   - type: Sprite
     layers:
       - state: green
+
+# Ecclesiarch
+- type: entity
+  id: SpawnPointPreacher
+  parent: SpawnPointJobBase
+  name: preacher
+  components:
+  - type: SpawnPoint
+    job_id: Preacher
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointApothecary
+  parent: SpawnPointJobBase
+  name: apothecary
+  components:
+  - type: SpawnPoint
+    job_id: Apothecary
+  - type: Sprite
+    layers:
+      - state: green

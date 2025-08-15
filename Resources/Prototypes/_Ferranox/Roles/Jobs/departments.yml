@@ -2,7 +2,7 @@
   id: Admech
   name: department-admech
   description: department-admech-description
-  color: "#A85050" # More toned down red
+  color: "#A85050" # Faded red
   roles:
   - MechaSapient
   - CyberSmith
@@ -12,7 +12,7 @@
   id: Skitarii
   name: department-skitarii
   description: department-skitarii-description
-  color: "#F92702" # Very strong red
+  color: "#F92702" # Strong red
   roles:
   - SkitariiAlpha
   - SkitariiProvost
@@ -27,3 +27,12 @@
   - EnforcerCaptain
   - EnforcerSergeant
   - EnforcerPatrolman
+
+- type: department
+  id: Ecclesiarch
+  name: department-ecclesiarch
+  description: department-ecclesiarch-description
+  color: "#80DBE5" # Light Cyan
+  roles:
+  - Preacher
+  - Apothecary
