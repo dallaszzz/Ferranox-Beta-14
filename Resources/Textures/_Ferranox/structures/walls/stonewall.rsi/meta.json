@@ -11,6 +11,10 @@
       "name": "brickstone"
     },
     {
+      "name": "brickstone0",
+      "directions": 4
+    },
+    {
       "name": "brickstone1",
       "directions": 4
     },
@@ -31,7 +35,8 @@
       "directions": 4
     },
     {
-      "name": "brickstone6"
+      "name": "brickstone6",
+      "directions": 4
     },
     {
       "name": "brickstone7",
