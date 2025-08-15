@@ -8,10 +8,10 @@
   },
   "states": [
     {
-      "name": "techno0"
+      "name": "techno"
     },
     {
-      "name": "techno",
+      "name": "techno0",
       "directions": 4
     },
     {
@@ -38,7 +38,8 @@
       "directions": 4
     },
     {
-      "name": "techno7"
+        "name": "techno7",
+        "directions":  4
     }
   ]
 }
