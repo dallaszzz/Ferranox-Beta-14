@@ -1,0 +1,9 @@
+# AdMech
+- type: playTimeTracker
+  id: JobMechaSapient
+
+- type: playTimeTracker
+  id: JobCyberSmith
+
+- type: playTimeTracker
+  id: JobMenial

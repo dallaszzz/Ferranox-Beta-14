@@ -1,0 +1,23 @@
+- type: gameMap
+  id: FerranoxPlanetTest
+  mapName: 'Ferranox Planet Test'
+  mapPath: /Maps/_Ferranox/Ferranox-Planet-Test.yml
+  minPlayers: 1
+  maxPlayers: 200
+  maxRandomOffset: 0
+  randomRotation: false
+  fixedPreset: FerranoxTestPreset
+  stations:
+    FerranoxPlanetTest:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} Box Station {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'TG'
+        - type: StationJobs
+          availableJobs:
+            MechaSapient: [ -1, -1 ] #infinite, not counted
+            CyberSmith: [ -1, -1 ]
+            Menial: [ -1, -1 ]

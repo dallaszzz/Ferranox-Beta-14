@@ -102,7 +102,7 @@
     - secret
     - sekrit
   name: secret-title
-  showInVote: true
+  showInVote: false # Ferranox change
   description: secret-description
   rules:
     - Secret
@@ -255,3 +255,13 @@
   - KesslerSyndromeScheduler
   - SpaceTrafficControlEventScheduler
   - BasicRoundstartVariation
+
+  #Ferranox changes
+- type: gamePreset
+  id: FerranoxTestPreset
+  alias:
+  - ferranoxtest
+  name: FerranoxTestGamePresetName
+  description: FerranoxTestGamePresetDescription
+  showInVote: true
+  rules:

@@ -1,0 +1,22 @@
+- type: job
+  id: Menial
+  name: job-name-menial
+  description: job-description-menial
+  playTimeTracker: JobMenial
+  startingGear: MenialGear
+  icon: "JobIconChiefEngineer" #replace this
+  supervisors: job-supervisors-captain #replace this
+  canBeAntag: false #decide on if this should be kept
+  access:
+  - Engineering #replace this
+
+- type: startingGear #fill this out
+  id: MenialGear
+  equipment:
+    id: CEPDA
+    eyes: ClothingEyesGlassesMeson
+    ears: ClothingHeadsetCE
+    belt: ClothingBeltUtilityEngineering
+  storage:
+    back:
+    - Flash

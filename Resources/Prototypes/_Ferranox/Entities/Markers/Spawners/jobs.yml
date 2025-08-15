@@ -1,0 +1,33 @@
+# AdMech
+- type: entity
+  id: SpawnPointMechaSapient
+  parent: SpawnPointJobBase
+  name: mechasapient
+  components:
+  - type: SpawnPoint
+    job_id: MechaSapient
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointCyberSmith
+  parent: SpawnPointJobBase
+  name: cybersmith
+  components:
+  - type: SpawnPoint
+    job_id: CyberSmith
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointMenial
+  parent: SpawnPointJobBase
+  name: menial
+  components:
+  - type: SpawnPoint
+    job_id: Menial
+  - type: Sprite
+    layers:
+      - state: green
