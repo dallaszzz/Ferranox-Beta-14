@@ -1,9 +1,19 @@
 - type: department
   id: Admech
-  name: department-Admech
-  description: department-Admech-description
+  name: department-admech
+  description: department-admech-description
   color: "#F92702" # a very strong red
   roles:
   - MechaSapient
   - CyberSmith
   - Menial
+
+- type: department
+  id: Skitarii
+  name: department-skitarii
+  description: department-skitarii-description
+  color: "#F92702" # a very strong red
+  roles:
+  - SkitariiAlpha
+  - SkitariiProvost
+  - SkitariiUnit

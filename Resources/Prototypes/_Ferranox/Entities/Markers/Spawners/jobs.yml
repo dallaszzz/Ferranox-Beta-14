@@ -31,3 +31,37 @@
   - type: Sprite
     layers:
       - state: green
+
+# Skitarii
+- type: entity
+  id: SpawnPointSkitariiAlpha
+  parent: SpawnPointJobBase
+  name: skitariialpha
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiAlpha
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointSkitariiProvost
+  parent: SpawnPointJobBase
+  name: skitariiprovost
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiProvost
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointSkitariiUnit
+  parent: SpawnPointJobBase
+  name: skitariiunit
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiUnit
+  - type: Sprite
+    layers:
+      - state: green

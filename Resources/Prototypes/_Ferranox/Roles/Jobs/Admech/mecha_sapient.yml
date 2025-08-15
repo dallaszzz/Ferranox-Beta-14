@@ -3,20 +3,4 @@
   name: job-name-mechasapient
   description: job-description-mechasapient
   playTimeTracker: JobMechaSapient
-  startingGear: MechaSapientGear
-  icon: "JobIconChiefEngineer" #replace this
-  supervisors: job-supervisors-captain #replace this
-  canBeAntag: false #decide on if this should be kept
-  access:
-  - Engineering #replace this
-
-- type: startingGear #fill this out
-  id: MechaSapientGear
-  equipment:
-    id: CEPDA
-    eyes: ClothingEyesGlassesMeson
-    ears: ClothingHeadsetCE
-    belt: ClothingBeltUtilityEngineering
-  storage:
-    back:
-    - Flash
+  icon: "JobIconUnknown"

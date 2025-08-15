@@ -1,0 +1,6 @@
+- type: job
+  id: SkitariiProvost
+  name: job-name-skitarii-provost
+  description: job-description-skitarii-provost
+  playTimeTracker: JobSkitariiProvost
+  icon: "JobIconUnknown"
