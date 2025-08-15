@@ -8,26 +8,34 @@
   },
   "states": [
     {
-      "name": "concrete3"
+      "name": "concretewall"
     },
     {
-      "name": "concrete4",
+      "name": "concretewall1",
       "directions": 4
     },
     {
-      "name": "concrete5-2",
+      "name": "concretewall2",
       "directions": 4
     },
     {
-      "name": "concrete6-3",
+      "name": "concretewall3",
       "directions": 4
     },
     {
-      "name": "concrete7-3",
+      "name": "concretewall4",
       "directions": 4
     },
     {
-      "name": "concrete11"
+      "name": "concretewall5",
+      "directions": 4
+    },
+    {
+      "name": "concretewall6"
+    },
+    {
+      "name": "concretewall7",
+      "directions": 4
     }
   ]
 }
