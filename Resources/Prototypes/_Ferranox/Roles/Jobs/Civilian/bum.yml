@@ -1,0 +1,6 @@
+- type: job
+  id: Bum
+  name: job-name-bum
+  description: job-description-bum
+  playTimeTracker: JobBum
+  icon: "JobIconUnknown"

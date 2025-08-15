@@ -44,3 +44,25 @@
 
 - type: playTimeTracker
   id: JobGuard
+
+# Civilians
+- type: playTimeTracker
+  id: JobPilgrim
+
+- type: playTimeTracker
+  id: JobBum
+
+- type: playTimeTracker
+  id: JobHunter
+
+- type: playTimeTracker
+  id: JobCleanser
+
+- type: playTimeTracker
+  id: JobBarkeep
+
+- type: playTimeTracker
+  id: JobCook
+
+- type: playTimeTracker
+  id: JobBarManager

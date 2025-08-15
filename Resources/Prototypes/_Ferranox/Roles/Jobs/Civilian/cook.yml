@@ -1,0 +1,6 @@
+- type: job
+  id: Cook
+  name: job-name-cook
+  description: job-description-cook
+  playTimeTracker: JobCook
+  icon: "JobIconUnknown"

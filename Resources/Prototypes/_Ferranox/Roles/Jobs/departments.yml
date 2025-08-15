@@ -46,3 +46,17 @@
   - Noble
   - Worker
   - Guard
+
+- type: department
+  id: Civilians
+  name: department-civilians
+  description: department-civilians-description
+  color: "#AFD67C" # Faded green
+  roles:
+  - Pilgrim
+  - Bum
+  - Hunter
+  - Cleanser
+  - Barkeep
+  - Cook
+  - BarManager

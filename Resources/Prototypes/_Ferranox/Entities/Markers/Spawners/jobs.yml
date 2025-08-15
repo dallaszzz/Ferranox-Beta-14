@@ -156,3 +156,81 @@
   - type: Sprite
     layers:
       - state: green
+
+# Civilians
+- type: entity
+  id: SpawnPointPilgrim
+  parent: SpawnPointJobBase
+  name: pilgrim
+  components:
+  - type: SpawnPoint
+    job_id: Pilgrim
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBum
+  parent: SpawnPointJobBase
+  name: bum
+  components:
+  - type: SpawnPoint
+    job_id: Bum
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointHunter
+  parent: SpawnPointJobBase
+  name: hunter
+  components:
+  - type: SpawnPoint
+    job_id: Hunter
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointCleanser
+  parent: SpawnPointJobBase
+  name: cleanser
+  components:
+  - type: SpawnPoint
+    job_id: Cleanser
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBarkeep
+  parent: SpawnPointJobBase
+  name: barkeep
+  components:
+  - type: SpawnPoint
+    job_id: Barkeep
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointCook
+  parent: SpawnPointJobBase
+  name: cook
+  components:
+  - type: SpawnPoint
+    job_id: Cook
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBarmanager
+  parent: SpawnPointJobBase
+  name: barmanager
+  components:
+  - type: SpawnPoint
+    job_id: BarManager
+  - type: Sprite
+    layers:
+      - state: green
