@@ -1,0 +1,6 @@
+- type: job
+  id: Cleanser
+  name: job-name-cleanser
+  description: job-description-cleanser
+  playTimeTracker: JobCleanser
+  icon: "JobIconUnknown"

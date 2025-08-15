@@ -1,0 +1,6 @@
+- type: job
+  id: EnforcerCaptain
+  name: job-name-enforcer-captain
+  description: job-description-enforcer-captain
+  playTimeTracker: JobEnforcerCaptain
+  icon: "JobIconUnknown"

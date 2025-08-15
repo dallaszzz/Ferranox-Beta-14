@@ -1,0 +1,6 @@
+- type: job
+  id: EnforcerSergeant
+  name: job-name-enforcer-sergeant
+  description: job-description-enforcer-sergeant
+  playTimeTracker: JobEnforcerSergeant
+  icon: "JobIconUnknown"

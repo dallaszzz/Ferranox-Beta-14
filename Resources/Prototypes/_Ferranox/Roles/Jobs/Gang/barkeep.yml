@@ -1,0 +1,6 @@
+- type: job
+  id: Barkeep
+  name: job-name-barkeep
+  description: job-description-barkeep
+  playTimeTracker: JobBarkeep
+  icon: "JobIconUnknown"

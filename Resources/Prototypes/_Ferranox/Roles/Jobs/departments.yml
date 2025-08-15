@@ -1,9 +1,71 @@
 - type: department
   id: Admech
-  name: department-Admech
-  description: department-Admech-description
-  color: "#F92702" # a very strong red
+  name: department-admech
+  description: department-admech-description
+  color: "#A85050" # Faded red
   roles:
   - MechaSapient
   - CyberSmith
   - Menial
+
+- type: department
+  id: Skitarii
+  name: department-skitarii
+  description: department-skitarii-description
+  color: "#F92702" # Strong red
+  roles:
+  - SkitariiAlpha
+  - SkitariiProvost
+  - SkitariiUnit
+
+- type: department
+  id: Enforcers
+  name: department-enforcers
+  description: department-enforcers-description
+  color: "#5264C9" # Desaturated blue
+  roles:
+  - EnforcerCaptain
+  - EnforcerSergeant
+  - EnforcerPatrolman
+
+- type: department
+  id: Ecclesiarch
+  name: department-ecclesiarch
+  description: department-ecclesiarch-description
+  color: "#80DBE5" # Light Cyan
+  roles:
+  - Preacher
+  - Apothecary
+
+- type: department
+  id: House
+  name: department-house
+  description: department-house-description
+  color: "#8A47C1" # Royal purple
+  roles:
+  - Noble
+  - Worker
+  - Guard
+
+- type: department
+  id: Civilians
+  name: department-civilians
+  description: department-civilians-description
+  color: "#AFD67C" # Faded green
+  roles:
+  - Pilgrim
+  - Bum
+  - Hunter
+  - Cleanser
+
+- type: department
+  id: Gang
+  name: department-gang
+  description: department-gang-description
+  color: "#AFD67C" # Faded green
+  roles:
+  - Boss
+  - Cook
+  - Barkeep
+  - Bruiser
+

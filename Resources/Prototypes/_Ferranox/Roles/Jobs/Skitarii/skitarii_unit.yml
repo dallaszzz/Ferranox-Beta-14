@@ -1,0 +1,6 @@
+- type: job
+  id: SkitariiUnit
+  name: job-name-skitarii-unit
+  description: job-description-skitarii-unit
+  playTimeTracker: JobSkitariiUnit
+  icon: "JobIconUnknown"

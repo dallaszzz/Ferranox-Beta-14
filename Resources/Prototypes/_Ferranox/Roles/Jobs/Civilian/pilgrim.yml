@@ -1,0 +1,6 @@
+- type: job
+  id: Pilgrim
+  name: job-name-pilgrim
+  description: job-description-pilgrim
+  playTimeTracker: JobPilgrim
+  icon: "JobIconUnknown"

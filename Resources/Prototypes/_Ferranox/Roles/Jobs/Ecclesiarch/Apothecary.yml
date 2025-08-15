@@ -1,0 +1,6 @@
+- type: job
+  id: Apothecary
+  name: job-name-apothecary
+  description: job-description-apothecary
+  playTimeTracker: JobApothecary
+  icon: "JobIconUnknown"

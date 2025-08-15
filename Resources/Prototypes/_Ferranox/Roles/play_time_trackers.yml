@@ -7,3 +7,62 @@
 
 - type: playTimeTracker
   id: JobMenial
+
+# Skitarii
+- type: playTimeTracker
+  id: JobSkitariiAlpha
+
+- type: playTimeTracker
+  id: JobSkitariiProvost
+
+- type: playTimeTracker
+  id: JobSkitariiUnit
+
+# Enforcers
+- type: playTimeTracker
+  id: JobEnforcerCaptain
+
+- type: playTimeTracker
+  id: JobEnforcerSergeant
+
+- type: playTimeTracker
+  id: JobEnforcerPatrolman
+
+# Ecclesiarch
+- type: playTimeTracker
+  id: JobPreacher
+
+- type: playTimeTracker
+  id: JobApothecary
+
+# House
+- type: playTimeTracker
+  id: JobNoble
+
+- type: playTimeTracker
+  id: JobWorker
+
+- type: playTimeTracker
+  id: JobGuard
+
+# Civilians
+- type: playTimeTracker
+  id: JobPilgrim
+
+- type: playTimeTracker
+  id: JobBum
+
+- type: playTimeTracker
+  id: JobHunter
+
+- type: playTimeTracker
+  id: JobCleanser
+
+- type: playTimeTracker
+  id: JobBarkeep
+
+- type: playTimeTracker
+  id: JobCook
+
+- type: playTimeTracker
+  id: JobBarManager

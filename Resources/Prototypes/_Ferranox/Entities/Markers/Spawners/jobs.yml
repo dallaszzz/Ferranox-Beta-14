@@ -31,3 +31,218 @@
   - type: Sprite
     layers:
       - state: green
+
+# Skitarii
+- type: entity
+  id: SpawnPointSkitariiAlpha
+  parent: SpawnPointJobBase
+  name: skitariialpha
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiAlpha
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointSkitariiProvost
+  parent: SpawnPointJobBase
+  name: skitariiprovost
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiProvost
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointSkitariiUnit
+  parent: SpawnPointJobBase
+  name: skitariiunit
+  components:
+  - type: SpawnPoint
+    job_id: SkitariiUnit
+  - type: Sprite
+    layers:
+      - state: green
+
+# Enforcers
+- type: entity
+  id: SpawnPointEnforcerCaptain
+  parent: SpawnPointJobBase
+  name: enforcercaptain
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerCaptain
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointEnforcerSergeant
+  parent: SpawnPointJobBase
+  name: enforcersergeant
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerSergeant
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointEnforcerPatrolman
+  parent: SpawnPointJobBase
+  name: enforcerpatrolman
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerPatrolman
+  - type: Sprite
+    layers:
+      - state: green
+
+# Ecclesiarch
+- type: entity
+  id: SpawnPointPreacher
+  parent: SpawnPointJobBase
+  name: preacher
+  components:
+  - type: SpawnPoint
+    job_id: Preacher
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointApothecary
+  parent: SpawnPointJobBase
+  name: apothecary
+  components:
+  - type: SpawnPoint
+    job_id: Apothecary
+  - type: Sprite
+    layers:
+      - state: green
+
+# Planetary House
+- type: entity
+  id: SpawnPointNoble
+  parent: SpawnPointJobBase
+  name: noble
+  components:
+  - type: SpawnPoint
+    job_id: Noble
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointWorker
+  parent: SpawnPointJobBase
+  name: worker
+  components:
+  - type: SpawnPoint
+    job_id: Worker
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointGuard
+  parent: SpawnPointJobBase
+  name: guard
+  components:
+  - type: SpawnPoint
+    job_id: Guard
+  - type: Sprite
+    layers:
+      - state: green
+
+# Civilians
+- type: entity
+  id: SpawnPointPilgrim
+  parent: SpawnPointJobBase
+  name: pilgrim
+  components:
+  - type: SpawnPoint
+    job_id: Pilgrim
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBum
+  parent: SpawnPointJobBase
+  name: bum
+  components:
+  - type: SpawnPoint
+    job_id: Bum
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointHunter
+  parent: SpawnPointJobBase
+  name: hunter
+  components:
+  - type: SpawnPoint
+    job_id: Hunter
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointCleanser
+  parent: SpawnPointJobBase
+  name: cleanser
+  components:
+  - type: SpawnPoint
+    job_id: Cleanser
+  - type: Sprite
+    layers:
+      - state: green
+
+# Gang
+- type: entity
+  id: SpawnPointBoss
+  parent: SpawnPointJobBase
+  name: boss
+  components:
+  - type: SpawnPoint
+    job_id: Boss
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBarkeep
+  parent: SpawnPointJobBase
+  name: barkeep
+  components:
+  - type: SpawnPoint
+    job_id: Barkeep
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointCook
+  parent: SpawnPointJobBase
+  name: cook
+  components:
+  - type: SpawnPoint
+    job_id: Cook
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointBruiser
+  parent: SpawnPointJobBase
+  name: bruiser
+  components:
+  - type: SpawnPoint
+    job_id: Bruiser
+  - type: Sprite
+    layers:
+      - state: green
