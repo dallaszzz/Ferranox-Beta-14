@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": ""
+    },
+    {
+      "name": "interior0"
+    },
+    {
+      "name": "interior1"
+    },
+    {
+      "name": "interior2"
+    },
+    {
+      "name": "interior3"
+    },
+    {
+      "name": "interior4"
+    },
+    {
+      "name": "interior5"
+    },
+    {
+      "name": "interior6"
+    },
+    {
+      "name": "interior7"
+    },
+    {
+      "name": "interior8"
+    },
+    {
+      "name": "interior9"
+    },
+    {
+      "name": "interior10"
+    },
+    {
+      "name": "interior11"
+    },
+    {
+      "name": "interior12"
+    },
+    {
+      "name": "interior13"
+    },
+    {
+      "name": "interior14"
+    },
+    {
+      "name": "interior15"
+    }
+  ]
+}
