@@ -65,3 +65,37 @@
   - type: Sprite
     layers:
       - state: green
+
+# Enforcers
+- type: entity
+  id: SpawnPointEnforcerCaptain
+  parent: SpawnPointJobBase
+  name: enforcercaptain
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerCaptain
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointEnforcerSergeant
+  parent: SpawnPointJobBase
+  name: enforcersergeant
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerSergeant
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointEnforcerPatrolman
+  parent: SpawnPointJobBase
+  name: enforcerpatrolman
+  components:
+  - type: SpawnPoint
+    job_id: EnforcerPatrolman
+  - type: Sprite
+    layers:
+      - state: green

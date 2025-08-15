@@ -17,3 +17,14 @@
 
 - type: playTimeTracker
   id: JobSkitariiUnit
+
+# Enforcers
+- type: playTimeTracker
+  id: JobEnforcerCaptain
+
+- type: playTimeTracker
+  id: JobEnforcerSergeant
+
+- type: playTimeTracker
+  id: JobEnforcerPatrolman
+

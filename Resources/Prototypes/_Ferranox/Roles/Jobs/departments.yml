@@ -2,7 +2,7 @@
   id: Admech
   name: department-admech
   description: department-admech-description
-  color: "#F92702" # a very strong red
+  color: "#A85050" # More toned down red
   roles:
   - MechaSapient
   - CyberSmith
@@ -12,8 +12,18 @@
   id: Skitarii
   name: department-skitarii
   description: department-skitarii-description
-  color: "#F92702" # a very strong red
+  color: "#F92702" # Very strong red
   roles:
   - SkitariiAlpha
   - SkitariiProvost
   - SkitariiUnit
+
+- type: department
+  id: Enforcers
+  name: department-enforcers
+  description: department-enforcers-description
+  color: "#5264C9" # Desaturated blue
+  roles:
+  - EnforcerCaptain
+  - EnforcerSergeant
+  - EnforcerPatrolman
