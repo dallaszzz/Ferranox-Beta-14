@@ -202,6 +202,18 @@
     layers:
       - state: green
 
+# Gang
+- type: entity
+  id: SpawnPointBoss
+  parent: SpawnPointJobBase
+  name: boss
+  components:
+  - type: SpawnPoint
+    job_id: Boss
+  - type: Sprite
+    layers:
+      - state: green
+
 - type: entity
   id: SpawnPointBarkeep
   parent: SpawnPointJobBase
@@ -225,12 +237,12 @@
       - state: green
 
 - type: entity
-  id: SpawnPointBarmanager
+  id: SpawnPointBruiser
   parent: SpawnPointJobBase
-  name: barmanager
+  name: bruiser
   components:
   - type: SpawnPoint
-    job_id: BarManager
+    job_id: Bruiser
   - type: Sprite
     layers:
       - state: green

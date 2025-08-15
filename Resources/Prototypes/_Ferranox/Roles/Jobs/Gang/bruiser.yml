@@ -1,0 +1,6 @@
+- type: job
+  id: Bruiser
+  name: job-name-bruiser
+  description: job-description-bruiser
+  playTimeTracker: JobBruiser
+  icon: "JobIconUnknown"

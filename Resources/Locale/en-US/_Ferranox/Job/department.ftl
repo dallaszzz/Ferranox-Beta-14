@@ -4,3 +4,4 @@ department-enforcers = Enforcers
 department-ecclesiarch = Ecclesiarch
 department-house = Planetary House
 department-civilians = Civilians
+department-gang = The Cove

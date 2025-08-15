@@ -2,11 +2,8 @@ job-name-cybersmith = Cyber Smith
 job-name-mechasapient = Mech Sapient
 job-name-menial = Menial
 
-job-name-barkeep = Barkeep
-job-name-bar-manager = Bar Manager
 job-name-bum = Bum
 job-name-cleanser = Cleanser
-job-name-cook = Cook
 job-name-hunter = Hunter
 job-name-pilgrim = Pilgrim
 
@@ -24,3 +21,8 @@ job-name-worker = Worker
 job-name-skitarii-alpha = Alpha
 job-name-skitarii-provost = Provost
 job-name-skitarii-unit = Unit
+
+job-name-boss = Boss
+job-name-barkeep = Barkeep
+job-name-cook = Cook
+job-name-bruiser = Bruiser

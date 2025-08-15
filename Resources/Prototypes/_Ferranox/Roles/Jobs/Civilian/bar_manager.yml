@@ -1,6 +1,0 @@
-- type: job
-  id: BarManager
-  name: job-name-bar-manager
-  description: job-description-bar-manager
-  playTimeTracker: JobBarManager
-  icon: "JobIconUnknown"

@@ -57,6 +57,15 @@
   - Bum
   - Hunter
   - Cleanser
-  - Barkeep
+
+- type: department
+  id: Gang
+  name: department-gang
+  description: department-gang-description
+  color: "#AFD67C" # Faded green
+  roles:
+  - Boss
   - Cook
-  - BarManager
+  - Barkeep
+  - Bruiser
+
