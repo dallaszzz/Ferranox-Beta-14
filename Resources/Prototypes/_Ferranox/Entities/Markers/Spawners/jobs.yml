@@ -122,3 +122,37 @@
   - type: Sprite
     layers:
       - state: green
+
+# Planetary House
+- type: entity
+  id: SpawnPointNoble
+  parent: SpawnPointJobBase
+  name: noble
+  components:
+  - type: SpawnPoint
+    job_id: Noble
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointWorker
+  parent: SpawnPointJobBase
+  name: worker
+  components:
+  - type: SpawnPoint
+    job_id: Worker
+  - type: Sprite
+    layers:
+      - state: green
+
+- type: entity
+  id: SpawnPointGuard
+  parent: SpawnPointJobBase
+  name: guard
+  components:
+  - type: SpawnPoint
+    job_id: Guard
+  - type: Sprite
+    layers:
+      - state: green

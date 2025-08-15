@@ -1,0 +1,6 @@
+- type: job
+  id: Guard
+  name: job-name-guard
+  description: job-description-guard
+  playTimeTracker: JobGuard
+  icon: "JobIconUnknown"

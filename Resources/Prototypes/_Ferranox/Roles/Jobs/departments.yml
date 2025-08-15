@@ -36,3 +36,13 @@
   roles:
   - Preacher
   - Apothecary
+
+- type: department
+  id: House
+  name: department-house
+  description: department-house-description
+  color: "#8A47C1" # Royal purple
+  roles:
+  - Noble
+  - Worker
+  - Guard
