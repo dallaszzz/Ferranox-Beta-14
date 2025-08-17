@@ -1,0 +1,27 @@
+- type: tile
+  id: FloorGrimdarkOrangesand
+  name: orange sand
+  sprite: /Textures/_Ferranox/Tiles/orangesand.png
+  variants: 15
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  isSubfloor: true
+  footstepSounds:
+    collection: FootstepAsteroid
+  heatCapacity: 10000
+  weather: true
+  indestructible: true

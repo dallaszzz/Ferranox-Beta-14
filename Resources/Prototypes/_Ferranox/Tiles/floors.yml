@@ -1,0 +1,83 @@
+- type: tile
+  id: FloorGrimdarkDirtytile1
+  name: dirty tile
+  sprite: /Textures/_Ferranox/Tiles/dirtytile1.png
+  variants: 8
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  baseTurf: Plating
+  isSubfloor: true
+  footstepSounds:
+    collection: FootstepFloor
+  heatCapacity: 10000
+  indestructible: true
+
+- type: tile
+  id: FloorGrimdarkDirtytile2
+  name: dirty tile
+  sprite: /Textures/_Ferranox/Tiles/dirtytile2.png
+  variants: 8
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  baseTurf: Plating
+  isSubfloor: true
+  footstepSounds:
+    collection: FootstepFloor
+  heatCapacity: 10000
+  indestructible: true
+
+- type: tile
+  id: FloorGrimdarkBluetile
+  name: blue tile
+  sprite: /Textures/_Ferranox/Tiles/bluetile.png
+  variants: 8
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  baseTurf: Plating
+  isSubfloor: true
+  footstepSounds:
+    collection: FootstepFloor
+  heatCapacity: 10000
+  indestructible: true
+
+- type: tile
+  id: FloorGrimdarkDarkwood1
+  name: wooden tiles
+  sprite: /Textures/_Ferranox/Tiles/darkwood1.png
+  variants: 8
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  baseTurf: Plating
+  isSubfloor: true
+  footstepSounds:
+    collection: FootstepFloor
+  heatCapacity: 10000
+  indestructible: true
