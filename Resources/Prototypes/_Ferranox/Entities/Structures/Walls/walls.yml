@@ -1,0 +1,107 @@
+# Concrete
+- type: entity
+  parent: BaseWall
+  id: WallConcrete
+  name: concrete wall
+  components:
+  - type: Sprite
+    sprite: _Ferranox/Structures/Walls/concretewalls.rsi
+  - type: Icon
+    sprite: _Ferranox/Structures/Walls/concretewalls.rsi
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 600
+      behaviors:
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          Girder: # change this
+            min: 1
+            max: 1
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: IconSmooth
+    key: walls
+    base: concretewall
+
+# Stone
+- type: entity
+  parent: BaseWall
+  id: WallStoneGrimdark
+  name: stone wall
+  components:
+  - type: Sprite
+    sprite: _Ferranox/Structures/Walls/stonewall.rsi
+  - type: Icon
+    sprite: _Ferranox/Structures/Walls/stonewall.rsi
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 500
+      behaviors:
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          Girder: # change this
+            min: 1
+            max: 1
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: IconSmooth
+    key: walls
+    base: brickstone
+
+# Techno
+- type: entity
+  parent: BaseWall
+  id: WallTechno
+  name: techno wall
+  components:
+  - type: Sprite
+    sprite: _Ferranox/Structures/Walls/technowalls.rsi
+  - type: Icon
+    sprite: _Ferranox/Structures/Walls/technowalls.rsi
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 450
+      behaviors:
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          Girder:
+            min: 1
+            max: 1
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: IconSmooth
+    key: walls
+    base: techno
+
+# Seolite
+- type: entity
+  parent: BaseWall
+  id: WallSeolite
+  name: seolite wall
+  components:
+  - type: Sprite
+    sprite: _Ferranox/Structures/Walls/seolitewalls.rsi
+  - type: Icon
+    sprite: _Ferranox/Structures/Walls/seolitewalls.rsi
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 450
+      behaviors:
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          Girder:
+            min: 1
+            max: 1
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: IconSmooth
+    key: walls
+    base: seolitewall

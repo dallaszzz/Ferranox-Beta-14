@@ -8,7 +8,11 @@
   },
   "states": [
     {
-      "name": "concretewall"
+      "name": "full"
+    },
+    {
+      "name": "concretewall0",
+      "directions": 4
     },
     {
       "name": "concretewall1",
